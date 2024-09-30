@@ -2,6 +2,6 @@ body {
   font-family: monospace; 
 }
 
-div.main {
+div #main {
   max-width: 66ch;
 }

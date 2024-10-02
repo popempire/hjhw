@@ -1,4 +1,5 @@
-baseurl: "/hjhw"
+baseurl: /hjhw
+permalink: :short_year:month:day/
 defaults:
   -
     scope:

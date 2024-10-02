@@ -1,4 +1,4 @@
-baseurl: https://popempire.github.io/hjhw/
+baseurl: /hjhw
 defaults:
   -
     scope:

@@ -6,3 +6,13 @@ div #main {
   max-width: 72ch;
   margin: 3rem auto;
 }
+
+header {
+  text-align: right;
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  text-align: right;
+}

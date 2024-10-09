@@ -15,8 +15,10 @@ header h1 {
   text-align: center;
   font-weight: bold;
   font-size: 1rem;
+  margin-bottom: 2rem;
 }
 
 footer {
   text-align: right;
+  margin-top: 3rem;
 }

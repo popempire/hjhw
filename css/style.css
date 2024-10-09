@@ -10,13 +10,13 @@ div #main {
 
 header {
   text-align: right;
+  margin-bottom: 2rem;
 }
 
 header h1 {
   text-align: center;
   font-weight: bold;
   font-size: 1rem;
-  margin-bottom: 2rem;
 }
 
 footer {

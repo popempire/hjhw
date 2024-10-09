@@ -2,10 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<header>
+  <p>{{ page.date }} - {{ page.title }}</p>
+  <hr>
+</header>
 
 {{ content }}
 
 <footer>
+  <hr>
   <p><a href="{{ site.url }}{{ site.baseurl }}">&lt; Home</a></p>
 </footer>

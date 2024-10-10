@@ -11,3 +11,11 @@ permalink: units/
  - __1 t__ or 
    __1 tsp__ is 5 ml
  - __1 C__  is 240 ml (sometimes 250 ml)
+ - __1 qt__ is 0.95 l (sometimes 960 ml)
+ - __1 gal__ is 3.8 l
+ - __1 in__ is 25 mm
+ - __1 ft__ is 0.3 m
+ - __1 mi__ is 1.6 km
+
+ - __1 kg__ is 2.2 lb
+ - __1 km__ is 5/8 mi (5 furlongs)

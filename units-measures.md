@@ -4,6 +4,9 @@ title: Units of Weights & Measures
 permalink: units/
 ---
 
+{{ page.title }}
+================
+
  - __1 lb__ is 450 g (sometimes 500 g)
  - __1 pt__ is 480 ml (sometimes 500 ml)
  - __1 oz__ is 28 g or 30 ml

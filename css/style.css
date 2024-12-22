@@ -12,7 +12,7 @@ body {
   padding: 24px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 768px) {
   body {
     margin: 0;
   }

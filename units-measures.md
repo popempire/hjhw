@@ -38,5 +38,5 @@ permalink: units/
 
 |unit  |name         |equivalent         |
 |------|-------------|-------------------|
-|`em`  |em           |<element> font-size|
+|`em`  |em           |&lt;element> font-size|
 |`rem` |root em      |<html> font-size   |

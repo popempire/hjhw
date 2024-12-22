@@ -16,6 +16,24 @@ permalink: units/
  - __1 in__ is 25 mm
  - __1 ft__ is 0.3 m
  - __1 mi__ is 1.6 km
-
  - __1 kg__ is 2.2 lb
  - __1 km__ is 5/8 mi (5 furlongs)
+
+
+### CSS Units ###
+
+#### absolute ####
+
+|unit  |name         |equivalent         |
+|------|-------------|-------------------|
+|`in`  |inch         |96px = 25.4 cm     |
+|`pc`  |pica         |1/6 in = 12pt      |
+|`pt`  |point        |1/72 in            |
+|`px`  |pixel        |1/96 in            |
+
+#### relative ####
+
+|unit  |name         |equivalent         |
+|------|-------------|-------------------|
+|`em`  |em           |<element> font-size|
+|`rem` |root em      |<html> font-size   |

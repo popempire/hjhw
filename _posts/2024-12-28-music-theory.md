@@ -6,8 +6,8 @@ title: Octave Equivalence
 __Octave equivalence__ is a musical practice where tones of a given frequency
 are considered to be interchangeable with any other tones whose frequency is the
 same frequency multiplied by a binary power. A tone of 440 Hz could be inter<wbr>
-changed with tones at 880 Hz (x2), 1.76 kHz (x2^2^), 220 Hz (x2^-1^), 110 Hz
-(x2^-2^) and so on. Musicians refer to any such tone of a specific group with a
+changed with tones at 880 Hz (x2), 1.76 kHz (x2<sup>2</sup>), 220 Hz (x2<sup>-1</sup>), 110 Hz
+(x2<sup>-2</sup>) and so on. Musicians refer to any such tone of a specific group with a
 common __note name__, such as *C*, *B-flat*, *do*, *fa*, or *sol*. This gives us
 the notion of a __pitch class__. This class selects all the tones which are 
 related to each other by octave equivalence. In practice, this grouping is 

@@ -86,7 +86,9 @@ well as numerical representations of melodic and harmonic components like the
 notation above. This leads some people to remark that "music is a lot like math"
 or even that "music is math". Music is not at all like math. Music is like 
 Nature, and math is very frequently the best linguistic tool that we have for
-describing Nature. Combinatorically, it would make sense to say that given twelve
+describing Nature. Music is not meant to describe Nature, it is meant to grow.
+
+Combinatorically, it would make sense to say that given twelve
 pitch classes per octave, there are eleven distinct dyadic harmonies possible
 (which indeed is true), that there are one hundred and ten distinct triadic
 harmonies possible (which is dubious), and that there are nine hundred and ninety
@@ -98,7 +100,7 @@ symbols (patterns, habits) is most efficiently available to our memory.
 These factors confine the number of musically meaningful pitch sets of triadic 
 and higher order that are __musically stable__, such that these sets, for the most 
 part, can be enumerated in named lists represented by a relatively compact set 
-of symbols. (Music is not meant for describing Nature, it is meant for growing.)
+of symbols.
 
 The complicated concept of "musical stability" that has arisen here is an 
 important nuance, because there are indeed thousands of pitch combinations
@@ -109,4 +111,6 @@ The edge cases here are interesting to look out for here, because musical
 stability does seem to depend partly on listener expectation, on musical norms
 and social conditioning, and this component seems to evolve over time. New 
 "islands of stability" have been discovered, for instance, by American blues and jazz
-musicians.
+musicians. In the long view of documented musical history (which unfortunately
+is only a small fragment of real musical history) there has in the West been 
+a trend to accept and identify more pitch sets as stable over time.

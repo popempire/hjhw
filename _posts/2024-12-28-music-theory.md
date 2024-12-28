@@ -13,15 +13,15 @@ the notion of a __pitch class__. This class selects all the tones which are
 related to each other by octave equivalence. In practice, this grouping is 
 "fuzzy", in the sense that it gathers together all the tones that are exact
 multiples of the given base frequency, but also all the tones that are pretty
-close to those frequencies.
+close to those frequencies. Musical convention dictates how far away from the 
+"ideal" frequency a tone can be and still be considered to belong to the
+relevant pitch class.
 
-Musical convention dictates how far away from the "ideal" frequency a tone can
-be and still be considered to belong to the relevant pitch class. By assigning
-pitch classes to a small number of frequencies lying between an arbitrary
-initial value and twice that value, the entire spectrum can easily be divided up
-into named regions. In musical terms, by giving note names to a handful of tones
-within an octave—i.e. by defining a scale—we can identify or specify a note of
-any frequency.
+By assigning pitch classes to a small number of frequencies lying between an
+arbitrary initial value and twice that value, the entire spectrum can easily be 
+divided up into named regions. In musical terms, by giving note names to a 
+handful of tones within an octave—i.e. by defining a scale—we can identify or 
+specify a note of any frequency.
 
 This relative frequency range that figures centrally here, the span from 
 frequency *f* up to *2f*, is called an __octave__ because, historically, 

@@ -78,3 +78,24 @@ sets.
 Chords and similar harmonic notations are useful and true to the extent that
 they specify what a musician should play but also fail to specify *exactly* what
 a musician should play.
+
+---
+
+Musical analysis commonly involves lots of repetetive, rudimentary counting, as
+well as numerical representations of melodic and harmonic components like the
+notation above. This leads some people to remark that "music is a lot like math"
+or even that "music is math". Music is not at all like math. Music is like 
+Nature, and math is very frequently the best linguistic tool that we have for
+describing Nature. Combinatorically, it would make sense to say that given twelve
+pitch classes per octave, there are eleven distinct dyadic harmonies possible
+(which indeed is true), that there are one hundred and ten distinct triadic
+harmonies possible (which is dubious), and that there are nine hundred and ninety
+tetradic (four-note) chords possible (which is musically preposterous).
+The problem is that is that we are not fully accounting for how human hearing 
+resolves and identifies simultaneous pitches. Furthermore, our musical practice 
+is so intertwined with memory that we will always tend to use whatever set of 
+symbols (patterns, habits) is most efficiently available to our memory. 
+These factors confine the number of musically meaningful pitch sets of triadic 
+and higher order to a reasonable magnitude, such that these sets, for the most 
+part, can be enumerated in named lists represented by a relatively compact set 
+of symbols.

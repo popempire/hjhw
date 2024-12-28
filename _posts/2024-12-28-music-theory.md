@@ -27,5 +27,54 @@ This relative frequency range that figures centrally here, the span from
 frequency *f* up to *2f*, is called an __octave__ because, historically, 
 musical theorists typically assigned seven pitch classes within this span, and
 thus with the eighth (Lat. *octavus*) they had reached a note that was equivalent
-with the first.
+with the first. These seven pitch classes were specified at uneven distances,
+and multiple different patterns of note assignment were used for different 
+musical pieces (rarely within the same piece). It was found, however, that by
+assigning twelve notes at approximately equal spacing across the octave, all
+of the many variations in use (and more) could be represented as a subset of the
+master set. This simplification has proven to be astoundingly useful, and in 
+this work as well as all conventional modern music, the octave is always divided
+into twelve pitch classes at approximately equal intervals.
 
+Note that this system does not *require* modern Equal Temperament (ET), where
+the interval between two adjacent notes is always exactly the same. It is well-<wbr>
+suited to this temperament, however, and almost all modern instruments are 
+designed with this standard in mind.
+
+Also note that this entire system of octave equivalence represents a theoretical
+simplification that reflects a certain musical practice which is useful and
+appropriate only within a certain musical context. Most musical instruments have
+a range of only two to four octaves, and within this range octave equivalence
+can be a valid concept; or similarly, within the range of compositions arranged
+for traditional SATB voices. It is a simplified, shortened version of the true
+underlying equation that reflects the musical reality—and yet musical theorists 
+are prone to treating the concept of octave equivalence as if it were a deeper
+truth than the nitty gritty musical practice which underlies it. However, if we
+restrict ourselves to talking about the typical range of frequencies used in 
+typical human song and produced by conventional instruments, octave equivalence
+will be an extremely useful concept.
+
+The standard musical note names using the letters A–G along with the modifiers 
+"sharp" and "flat" are generally used to refer to pitch classes related to 
+specific frequencies defined by convention. The contemporary convention is to
+set A equal to 440 Hz and derive all the other pitches from this. However, in
+music it is often the ratio or interval between notes which is much more 
+important than the absolute value of those notes. Therefore, sometimes it is 
+useful to refer to various pitch classes or groups of pitch classes without
+specifying exactly what frequencies they are supposed to represent, merely the
+relationships between them. For this, my convention is to use the numbers 0–11,
+enclosed in curly braces: {0}, {1}, {2} and so on. Typographically, it would be
+very convenient here to have single-digit representations of {10} and {11}.
+We could use something akin to hexadecimal notation as used in computer
+programming, but {A} and {B} would invite too much confusion with the musical
+note names. So for now, I know of no better alternative to using {10} and {11}.
+
+Groups of notes can be easily represented in this notation by separating the
+pitch classes with commas within a single set of braces: {0,4,7}. More 
+fundamental and ultimately more useful than __chords__ is this concept of a 
+__pitch class group__ or __set__; chords, in fact, are simply a subset of these
+sets.
+
+Chords and similar harmonic notations are useful and true to the extent that
+they specify what a musician should play but also fail to specify *exactly* what
+a musician should play.

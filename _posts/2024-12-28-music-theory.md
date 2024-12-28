@@ -96,6 +96,17 @@ resolves and identifies simultaneous pitches. Furthermore, our musical practice
 is so intertwined with memory that we will always tend to use whatever set of 
 symbols (patterns, habits) is most efficiently available to our memory. 
 These factors confine the number of musically meaningful pitch sets of triadic 
-and higher order to a reasonable magnitude, such that these sets, for the most 
+and higher order that are __musically stable__, such that these sets, for the most 
 part, can be enumerated in named lists represented by a relatively compact set 
 of symbols.
+
+The complicated concept of "musical stability" that has arisen here is an 
+important nuance, because there are indeed thousands of pitch combinations
+that occur in conventional music during periods of musical instability or move<wbr>
+ment, but most of these will never have names or distinct identities.
+
+The edge cases here are interesting to look out for here, because musical 
+stability does seem to depend partly on listener expectation, on musical norms
+and social conditioning, and this component seems to evolve over time. New 
+"islands of stability" have been discovered, for instance, by American blues and jazz
+musicians.

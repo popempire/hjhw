@@ -98,7 +98,7 @@ symbols (patterns, habits) is most efficiently available to our memory.
 These factors confine the number of musically meaningful pitch sets of triadic 
 and higher order that are __musically stable__, such that these sets, for the most 
 part, can be enumerated in named lists represented by a relatively compact set 
-of symbols.
+of symbols. (Music is not meant for describing Nature, it is meant for growing.)
 
 The complicated concept of "musical stability" that has arisen here is an 
 important nuance, because there are indeed thousands of pitch combinations

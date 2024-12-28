@@ -22,6 +22,8 @@ permalink: units/
  - __1 kg__ is 2.2 lb
  - __1 km__ is 5/8 mi (5 furlongs)
 
+ - __1 drop__ is 0.05 ml
+
 
 ### CSS Units ###
 

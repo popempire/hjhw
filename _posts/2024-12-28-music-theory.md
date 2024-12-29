@@ -114,3 +114,14 @@ and social conditioning, and this component seems to evolve over time. New
 musicians. In the long view of documented musical history (which unfortunately
 is only a small fragment of real musical history) there has in the West been 
 a trend to accept and identify more pitch sets as stable over time.
+
+---
+
+Some terms to elucidate...
+
+  - tone
+  - pure tone (simple tone)
+  - complex tone (compound tone)
+  - note
+  - frequency
+  - pitch

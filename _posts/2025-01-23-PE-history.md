@@ -104,7 +104,7 @@ History of Pop Empire
     on the upcoming tour.
   - __May 2017__ The tour with Katie goes very well, and she is invited to join
     the band permanently. Jake and Katie hit it off, too.
-  
+
   - __Friday, March 13, 2020__ Pop Empire plays its last show before the infamous
     "Lockdown" of Covid took effect, a house show in Oxford OH (where pre-rolled
     joints were freely passed among the congregants, and everyone breathed on

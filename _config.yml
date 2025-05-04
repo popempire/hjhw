@@ -1,4 +1,4 @@
-baseurl: /hjhw
+baseurl:
 permalink: :short_year:month:day/
 defaults:
   -

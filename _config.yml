@@ -1,3 +1,4 @@
+url: https://www.henryjhwilson.com
 baseurl:
 permalink: :short_year:month:day/
 defaults:

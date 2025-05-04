@@ -6,17 +6,19 @@ I believe that confidence does not entail the desire to be a rockstar. It is not
 reflected by arrogance nor braggadoccio.
 
 I feel that our culture's proclivity to tolerate, coddle, and even celebrate 
-self-absorption and arrogance among successful artists is crass and decadent.
+the desire among artists to be famous and venerated as a genius is crass and
+decadent. (Similar things could be said about athletes and actors.)
 
-What people forget is that there is incredible art being made all the time,
+There is incredible art being made all the time,
 which has always been made in every age, that does not receive a share of 
 attention commensurate with its merit, with its ability to stir and cultivate
 meaningful experiences in the people who receive it. So even though many works
 that have legitimate merit are made by artists who seek jealously to keep 
-attention on themselves, or feign to deserve obsequiousness wherever they go,
+attention on themselves, or feign to deserve veneration wherever they go,
 there is no justification for this behavior.
 
-The artist class has been easily subverted by lures of fame and luxury.
+The artist class, natively aligned with the people, has been easily subverted to
+the cause of domination by lures of fame and luxury.
 
 I don't desire significant fame or luxury, and I don't think I deserve more of
 people's attention than they want to give me. However, I am confident that the

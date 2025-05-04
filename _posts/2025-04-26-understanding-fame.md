@@ -13,7 +13,7 @@ There is incredible art being made all the time,
 which has always been made in every age, that does not receive a share of 
 attention commensurate with its merit, with its ability to stir and cultivate
 meaningful experiences in the people who receive it. So even though many works
-that have legitimate merit are made by artists who seek jealously to keep 
+of legitimate merit are made by those artists who seek jealously to keep 
 attention on themselves, or feign to deserve veneration wherever they go,
 there is no justification for this behavior.
 

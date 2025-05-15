@@ -13,5 +13,6 @@ Initialization
 - NanaZip
 - WinDirStat
 - PowerToys
+- FreeFileSync
 - Brother Laser Printer
 - Canon MG3620 Inkjet Printer

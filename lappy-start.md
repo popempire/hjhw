@@ -16,3 +16,10 @@ Initialization
 - FreeFileSync
 - Brother Laser Printer
 - Canon MG3620 Inkjet Printer
+
+*Chromebook*
+
+- Linux
+- VS Code
+- Spotify
+- Instagram

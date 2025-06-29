@@ -25,4 +25,12 @@ title: "H.J.H.W."
   <li><a href="lappy-start">laptop initialization</a></li>
 </ul>
 
+<ul>
+  {% for each_page in site.pages %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ each_page.url }}">{{ each_page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 </main>

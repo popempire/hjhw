@@ -11,6 +11,19 @@ layout: default
 
 {{ content }}
 
+<div>
+  <h3>tags</h3>
+  {% if page.tags %}
+  <ul>
+  {% for tag in page.tags %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
 </main>
 <footer>
   <hr>

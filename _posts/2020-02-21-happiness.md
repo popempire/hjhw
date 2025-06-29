@@ -1,6 +1,11 @@
+---
+layout: post
+tags: happiness birthday
+---
+
 Do not buy into the lie that Happiness is the goal of life!
 
-===
+---
 
 I'm 31 years old today and I wish I had something hopeful, funny or wise to say, but in fact I only feel hopeless, useless and unrelatable. I am frustrated by the poverty of my capacity to express my sadness and frustrated with the emotional immaturity in myself that binds me to experience it in the first place.
 
@@ -10,15 +15,16 @@ I think there's a lie going around that happiness is the goal of life. Conscious
 
 I hope you all have a nice day.
 
-===
+---
 
 Since at least the Enlightenment, Western philosophy has been haunted by the irresolvability of the singular consciousness, which it takes as the starting point for its investigations. Consciousness has never been singular. (Dreadful to think of, but sometimes it seems like consciousness is headed that way.) Consciousness arose first, necessarily, in the communion of at least two beings.
 
-===
+---
 
-Speculative theologico-philosophical musing—liberal humanism has been able to integrate, streamline and adapt every importantly useful aspect of orthodox christianity and re-present it in a modern package, except for the central dogma of orthdox christianity, the doctrine of the trinity
+#### Speculative theologico-philosophical musing—
+liberal humanism has been able to integrate, streamline and adapt every importantly useful aspect of orthodox christianity and re-present it in a modern package, except for the central dogma of orthdox christianity, the doctrine of the trinity
 
-Mysticism vs Legalistic Religion
+#### Mysticism vs Legalistic Religion
 
 The goal of the one is to participate in divinity through joining one's being with the divine. The other carefully observes the distinction between divine and mortal, fallible.
 

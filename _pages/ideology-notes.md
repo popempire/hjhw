@@ -1,3 +1,5 @@
+---
+---
 ideology is closely correlated with associative network
 
 concepts are seen to be distinct from words when we consider that a word may
@@ -9,7 +11,7 @@ one major organizing principle in our culture is intellectual laziness.
 
 a *spirit* is an unexplainable principle that causes motion or change of state
 in a body. it is not material, but is defined its material influence.
-
+```
 when you think about cause and effect
 consider the atomic bomb
 you think about a massive explosion and a mushroom cloud
@@ -29,12 +31,12 @@ they are intelligible and their effects are in the material world
 if you want to understand cause and effect
 the invisible things may be the largest part of the picture
 it is easy to focus on the visible things, the explosions
+```
 
-
-http://content.time.com/time/magazine/article/0,9171,886289,00.html
+[http://content.time.com/time/magazine/article/0,9171,886289,00.html]
 
 ---
-
+```
 when you look at the world of people and you try to make sense of it
 you find that the people all act and understand their own actions in the terms
 provided by their culture
@@ -72,3 +74,4 @@ at the same time as we remember that it happens everyday all the time]
 
 the conceptual problem with imagining the selfsubject
 as if a region on a plane
+```

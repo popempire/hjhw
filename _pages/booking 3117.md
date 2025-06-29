@@ -1,3 +1,5 @@
+---
+---
 how to book a show at 3117 warsaw
 
 we ask for $40 flat-rate up-front for use of the space. artists are welcome to keep any cover or donations that they collect.

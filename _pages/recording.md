@@ -11,6 +11,23 @@ last edited 2019-01
  *  acoustics—the physics of sound
  *  glossary
 
+### notes
+
+it is the peculiar privilege of all living things to die
+
+recording is a way of preparing for death
+
+one lives not *denying* death but *defying* death
+
+this way of life welcomes death into the warm embrace of combat
+
+obsession is necessary and useful for recording work
+
+a mind prone to fixating on small problems
+is suited to certain aspects of recording work
+
+---
+
 ## 1 historical context
 
 ### 1.1 mechanical recording

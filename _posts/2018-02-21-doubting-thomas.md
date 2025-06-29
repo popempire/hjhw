@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: st-thomas
+tags: st-thomas birthday
 ---
 2/21/2018
 

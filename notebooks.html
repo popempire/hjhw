@@ -1,0 +1,19 @@
+---
+layout: default
+title: notebooks | henry james house wilson
+permalink: notebooks/
+---
+
+<h1>notebooks</h1>
+
+<main>
+
+<ul>
+  {% for notebook in site.notebooks %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ notebook.url }}">{{ notebook.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+</main>

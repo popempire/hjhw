@@ -9,5 +9,9 @@ defaults:
       layout: "default"
 
 collections:
+
   pages:
+    output: true
+  
+  notebooks:
     output: true

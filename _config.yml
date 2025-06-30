@@ -15,3 +15,7 @@ collections:
   
   notebooks:
     output: true
+
+  songs:
+    output: true
+    

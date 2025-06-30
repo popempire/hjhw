@@ -1,82 +1,82 @@
 Blogs
 =====
 
-CityBeat
-http://citybeat.com
-Cincinnati, OH
-Mike Breen
-mbreen@citybeat.com
-premiered Psyche
+  CityBeat
+  http://citybeat.com
+  Cincinnati, OH
+  Mike Breen
+  mbreen@citybeat.com
+  premiered Psyche
 
-CincyMusic
-http://cincymusic.com/
-Cincinnati, OH
+  CincyMusic
+  http://cincymusic.com/
+  Cincinnati, OH
 
-Site of Sound
-http://www.siteofsound.com/
-Eric Miller
-eric@siteofsound.com
-premiered Sweetest Thing
+  Site of Sound
+  http://www.siteofsound.com/
+  Eric Miller
+  eric@siteofsound.com
+  premiered Sweetest Thing
 
-Morphettes
-http://www.morphettes.com/
-feat Leggy
+  Morphettes
+  http://www.morphettes.com/
+  feat Leggy
 
-Post Trash
-http://post-trash.com/
-feat Leggy
+  Post Trash
+  http://post-trash.com/
+  feat Leggy
 
-Noisey
-http://noisey.vice.com/en_us
-feat Leggy
+  Noisey
+  http://noisey.vice.com/en_us
+  feat Leggy
 
-Stereogum
-http://www.stereogum.com/
-feat Leggy
+  Stereogum
+  http://www.stereogum.com/
+  feat Leggy
 
-Independent Music News
-http://independentmusicnews.com/
-feat Leggy
+  Independent Music News
+  http://independentmusicnews.com/
+  feat Leggy
 
-The Grey Estates
-http://www.thegreyestates.com/
-feat Leggy
+  The Grey Estates
+  http://www.thegreyestates.com/
+  feat Leggy
 
-Too Many Notes
-http://www.argusleader.com/blog/scotthudson/
-Scott Hudson
-feat Leggy
+  Too Many Notes
+  http://www.argusleader.com/blog/scotthudson/
+  Scott Hudson
+  feat Leggy
 
-I Heart Local Music
-http://iheartlocalmusic.com/
-Lawrence, KS
-feat Leggy
+  I Heart Local Music
+  http://iheartlocalmusic.com/
+  Lawrence, KS
+  feat Leggy
 
-Impose
-http://www.imposemagazine.com/bytes/new-music
-feat Leggy
+  Impose
+  http://www.imposemagazine.com/bytes/new-music
+  feat Leggy
 
-Musically Fresh
-http://musicallyfresh.com/
-feat Leggy
+  Musically Fresh
+  http://musicallyfresh.com/
+  feat Leggy
 
-Live Eye TV
-http://www.liveeyetv.org/
-feat Leggy
+  Live Eye TV
+  http://www.liveeyetv.org/
+  feat Leggy
 
-Under Bright Lights
-http://www.ublblog.com/
-Michigan
-feat Leggy
+  Under Bright Lights
+  http://www.ublblog.com/
+  Michigan
+  feat Leggy
 
-The Wild Honey Pie
-http://www.thewildhoneypie.com/
-feat Leggy
+  The Wild Honey Pie
+  http://www.thewildhoneypie.com/
+  feat Leggy
+    
+  Brooklyn Vegan
+  http://www.brooklynvegan.com/
+  feat Leggy
 
-Brooklyn Vegan
-http://www.brooklynvegan.com/
-feat Leggy
-
-Consequence of Sound
-http://consequenceofsound.net/
+  Consequence of Sound
+  http://consequenceofsound.net/
 

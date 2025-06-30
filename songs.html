@@ -1,0 +1,19 @@
+---
+layout: default
+title: songs | henry james house wilson
+permalink: songs/
+---
+
+<h1>songs</h1>
+
+<main>
+
+<ul>
+  {% for song in site.songs %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ song.url }}">{{ song.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+</main>

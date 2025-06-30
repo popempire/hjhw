@@ -23,3 +23,4 @@ Initialization
 - VS Code
 - Spotify
 - Instagram
+- FileZilla

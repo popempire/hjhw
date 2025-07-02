@@ -1,3 +1,7 @@
+---
+---
+### notes
+
 v3
 
 The reference to John Coltrane * here is not gratuitous, but rather necessary to 

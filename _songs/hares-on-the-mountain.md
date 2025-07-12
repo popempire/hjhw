@@ -2,7 +2,7 @@
 ---
 Hares on the Mountain
 ---------------------
-after Shirley Collins on *Folk Roots, New Routes*\
+after Shirley Collins on *Folk Roots, New Routes*
 
     Oh Sally, my dear, it’s you I’d be kissing,
     Oh Sally, my dear, it’s you I’d be kissing,

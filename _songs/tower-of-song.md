@@ -11,7 +11,7 @@ from *I'm Your Man* (1988)
     I ache in the places where I used to play
             A                                 E
     And I'm crazy for love but I'm not coming on
-            B                    A                   E
+             B                    A                   E
     I'm just paying my rent every day in the Tower of Song
 
     I said to Hank Williams, how lonely does it get?

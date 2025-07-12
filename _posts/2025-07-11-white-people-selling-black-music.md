@@ -11,12 +11,12 @@ Some things just stick in your mind.
 For instance, cringy things you did as a teenager.
 
 For me, one of these things was what I wrote in my college application essay.
-In explaining that I what I really wanted to do was to play rock & roll music,
+In explaining that what I really wanted to do was to play rock & roll music,
 I attributed to John Lennon the quote,
-"[of rock & roll music], it's got a back beat and you can't lose it."
+of rock & roll music, "it's got a back beat and you can't lose it."
 
 In retrospect, I shouldn't have been even a little surprised that I was not
-accepted to the school I submitted this essay to.
+accepted to the school I submitted this essay to (Harvard).
 The whole sentiment I was expressing did not reflect the ideals of academic
 dedication.
 The thing that bothers me, though, as I remember this essay and cringe,
@@ -31,14 +31,14 @@ recording of it in 1957.
 John Lennon is the white British man who, with his skiffle band The Beatles,
 covered the song in 1964.
 The Beatles played numerous songs by Chuck Berry, were significantly influenced
-by his music — and while they did acknowledge credit to him, and likely raised
+by his music — and while they did give credit to him, and likely raised
 his fortunes to some degree with their successful covers of his songs, they 
 acquired far more wealth and fame than he ever did from the same music.
 
 The unfortunate thing is that, despite the pang of embarrassment I feel in 
 remembering this college application essay, my mistake is not that unusual.
-Many, probably most, Americans would attribute significant swaths of the 
-American pop music panoply to white musicians which were decidedly originated
+Many, probably most, Americans would attribute to white musicians significant swaths of the 
+American pop music panoply which were decidedly originated
 by black Americans.
 It's not even intentional on the part of the listeners. The white musicians just 
 got way more famous for the same music, and so naturally more people heard about 
@@ -48,22 +48,22 @@ unaware that the namesake song was a traditional, known by hundreds or thousands
 of mostly poor, rural singers before Robert Zimmerman aka Bob Dylan recorded it.
 That was embarrassing for them because they named their band after the song
 without investigating the provenance of the song, just like my misattribution
-in my essay was embarrassing because I cited it as a lynch pin of my teenage
-philsosphy. However, while these circumstances make our mistakes conspicuous,
-they are by no means uncommon mistakes.
+in my essay was embarrassing because I cited it as a lynchpin of my teenage
+philsosphy. However, while our mistakes are made conspicuous by these circumstances,
+they are by no means unusual.
 
 For at least 150 years, probably longer, black Americans have had an influence
-on our popular music out of proportion with their minority and relative lack of
+on our popular music disproportionate to their minority and relative lack of
 societal influence. Time and again, part of the way this has played out is with
 black composers and performers developing music that a closely following 
 generation of white musicians implements and sells to a much larger audience — 
 subsequently, they are often remembered as the pioneers of the music that they
 inherited. By no means is this cultural transmission wrong in itself, but in 
 the context of American history the lack of credit where credit is due is often
-egregious and embarrasing. It's note merely stylistic influences that are not
-acknowledged — specific songs and compositions of black musicians frequently 
+egregious and embarrasing. It's not merely stylistic influences that are not
+acknowledged — specific songs of black musicians frequently 
 have become so associated with specific white musicians that the cultural
-consciousness practically attributes the number to the white ones.
+consciousness attributes the composition to the white artist.
 
 This story has repeated so many times that it has in fact been described already
 long ago, and therefore conceptually and culturally aware white artists often

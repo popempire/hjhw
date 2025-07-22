@@ -39,3 +39,8 @@ footer {
   text-align: right;
   margin-top: 4rem;
 }
+
+hr {
+  border: solid black;
+  border-width: 1px 0 0;
+}

@@ -1,5 +1,7 @@
 ---
 layout: post
+title: PE History
+tags: pop-empire
 ---
 
 History of Pop Empire

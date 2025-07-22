@@ -1,3 +1,8 @@
+---
+layout: post
+tags: music-theory
+---
+
 The most logical system of musical note durations in contemporary practice, it 
 seems to me, is the one based on "whole notes" which are equal in duration to one
 measure of common time. Common time is the same as "4/4" time, and thus a whole 

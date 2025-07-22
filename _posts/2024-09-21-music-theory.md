@@ -1,3 +1,8 @@
+---
+layout: post
+tags: music-theory
+---
+
 The triumph of academic jazz in a theoretical sense is to lead western harmonic
 theory back to the source of its power, voice leading. Socially, it has 
 institutionalized a tremendous evolution in western music that is predominantly 

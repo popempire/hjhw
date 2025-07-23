@@ -1,0 +1,19 @@
+---
+layout: default
+title: songs ideas | henry james house wilson
+permalink: songs_ideas/
+---
+
+<h1>song ideas, lyrical notebooks</h1>
+
+<main>
+
+<ul>
+  {% for song in site.song_ideas %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ song.url }}">{{ song.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+</main>

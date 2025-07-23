@@ -18,4 +18,6 @@ collections:
 
   songs:
     output: true
-    
+  
+  song_ideas:
+    output: true

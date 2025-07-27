@@ -16,3 +16,7 @@ MSI B450M PRO-VDH MAX
 
 RAM
 32GB
+
+GPU
+Radeon RX 580
+Passmark G3D: 8812

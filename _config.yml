@@ -1,4 +1,4 @@
-url: https://www.henryjhwilson.com
+url: https://popempire.github.io/hjhw/
 baseurl:
 permalink: :short_year:month:day-:slug/
 defaults:

@@ -33,6 +33,7 @@ Make Your Motor Hum
     Until bright love flamed out upon the face
         Of the cold, far-flung world without end
 
+*8/12/25*
     
     My true self has no arms nor legs nor  head of hair
     The real me can't be found just anywhere

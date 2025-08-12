@@ -33,3 +33,10 @@ Make Your Motor Hum
     Until bright love flamed out upon the face
         Of the cold, far-flung world without end
 
+    
+    My true self has no arms nor legs nor  head of hair
+    The real me can't be found just anywhere
+    The heart, the guts, and the spleen
+        Of a magical fucking machine
+    Yes, it's sweet love that makes your motor hum
+        Hey alright, hey alright, hey alright 

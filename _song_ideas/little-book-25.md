@@ -35,9 +35,13 @@ Make Your Motor Hum
 
 *8/12/25*
     
-    My true self has no arms nor legs nor  head of hair
+    My true self has no arms nor legs nor head of hair
     The real me can't be found just anywhere
     The heart, the guts, and the spleen
         Of a magical fucking machine
     Yes, it's sweet love that makes your motor hum
         Hey alright, hey alright, hey alright 
+
+
+    The darkest shadows of doubt
+        Can't withstand your light flashing out

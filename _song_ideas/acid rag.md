@@ -163,4 +163,14 @@
       Don't knock the little girl down, she's my friend  
       Don't knock the little girl down, she's my friend  
 
+---
 
+      ...
+      And when the sun drips into the sea
+      You can go on and on with me 
+      Ride on the crest of the wave down below the southern shores 
+
+      Writing to find out who I am
+      Lost in the sea
+      Tonight the fog is thick and it looks like a lake
+      Maybe a large pond

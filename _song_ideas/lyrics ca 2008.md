@@ -1,0 +1,154 @@
+---
+---
+
+*circa 2008*
+
+    This fancy living
+    will take its toll
+    but what I really like is rock n roll
+
+    This fancy living
+    don't fill the hole
+    cause what I really like is rock n roll
+
+    This fancy living
+    will kill the soul
+    but what I really like is rock n roll
+
+---
+
+    Sadie darling
+    may I hold your hand?
+    Said he to the
+    chains that held his tongue
+    but if I could
+    don't you know I would
+    break the city sunlight on your feet
+    just to make you know that I could love you
+
+    Lady Sadie
+    said she had no answer
+    pretty city
+    sunlight on her face
+    no triumphant bell
+    no secret smile
+    no broken heart, no moving on
+    I'll just stand here bent when I could love you
+
+    Sadie darling
+    you're my ancient folly
+    you're my word of
+    wisdom silently
+
+    A million orisons
+    a million twilight suns
+    may all break upon that pearly shore
+    ...
+
+---
+
+    It's so hard to get to you
+    it's so hard to know when you're coming through
+    And when I speak to you
+    I never really know who I'm speaking to
+    It's so hard to get to you
+    my mind just stops and my body flies
+
+    I wanna see your naked eyes
+    like the holy relic of a sinless age
+
+---
+
+    All I wanna keep is a soul that's clean
+    with a loaded magazine and a bright green machine
+    they can send me off to heaven
+    when they put me on a tv show
+
+    All I really need is a bit of luck
+    a girl who'll share my name and a match with a flame
+    the girls are in the blackout,
+    the fire's in the blackout too
+
+
+    All I wanna do is something big
+    when the masterpiece don't fade, now do we make the grade?
+    the picture's in the blackout,
+    the fading's in the blackout too
+
+    All I wanna be is a superstar
+    starving artist downtown in a cowboy flat
+    the suckers couldn't kill him
+    so they put him on a tv show
+
+
+    Forget about your sorrow
+    forget about your happy
+    forget about the feeling of the inside of your skull
+
+
+    All I really want is some peace of mind
+    I can't see what I do, so I do it blind
+    the virtue's in the black out,
+    the beauty's in the black out too
+
+    All I really need is a pulse, don't you know
+    some sunshine and some rain, that's how the garden grow
+    nothing's gonna kill me,
+    they put me on a tv show
+
+
+    All I really need is a heart that's true
+    a temple with a view and a prayer or two
+
+
+
+
+---
+
+    You gotta watch out for the ones
+    with the honey-coated tongues
+    all the words they let you hear
+    are drops of poison in your ear
+
+    You gotta watch out for the ones
+    with the silver forked tongues
+    all the words they let you hear
+    are drops of poison in your ear
+
+    You gotta watch out for the wheels
+    and the chrome appointed heels
+    yeah you love the way it feels
+    but you know it never heals
+
+    Watch out for the wheel
+    with a diamond dusted heel
+    Watch out for the room
+    with a delicate perfume
+    Beware of girls with pretty eyes
+    watch out for angels in disguise
+
+---
+
+    learnin how to love and avoid temptation
+    but you're a sucker for the sweet sensation
+    bought a ticket to the new creation
+    gotta get some inspiration
+
+    you don't believe
+    all the things you perceive
+    you know the senses deceive
+    you but you don't want to leave
+    yet and they're dying for you
+    a dozen for a dime
+    but it doesn't cross your mind
+    that loving is a crime
+    shady politician with a glass onion eye
+    the news says he's a fairy
+    so we're pullin teeth for money
+    ....
+    it's a big big world
+    but a tiny tiny planet
+
+---
+
+    your pretty little soul is all skin and bone

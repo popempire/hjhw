@@ -1,0 +1,53 @@
+---
+---
+
+"Love to feel good"
+===============
+
+    Hang down your head Tom Dooley  
+    Hang down your head and cry  
+    You killed little Laura Foster  
+    You know you're bound to die  
+
+    'Cause you love what's good  
+    You love what's good  
+    You love to feel good  
+    Love to feel good  
+
+    You like to be an artist  
+    The finer things in life  
+    You never seen it coming  
+
+---
+
+    No one knows my real name 
+    I'd tell you if I could 
+    Maybe if I'd been there 
+    When he raised the dead
+
+    ...
+    Teenage love and cocaine
+
+---
+
+    You don't know what love is 
+    You have forsaken God
+    You've humbled yourself before mere men
+    And borne the tyrant's rod
+
+    You kissed her and hugged her 
+    And turned her around 
+    Then pushed her in the water
+    Where you know she'll drown 
+
+    There ain't one man in twenty 
+    A young girl can trust 
+    Soon it's back to ashes 
+
+---
+
+  - Haxon Cloak
+  - T. W. Walsh  
+    Fundamental ground
+  - Monster Movie
+  - Grave Face records

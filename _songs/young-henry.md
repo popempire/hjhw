@@ -31,3 +31,5 @@ Bronson alludes to a relationship between this ballad and *Lady Isabel* (Child N
 <https://www.springthyme.co.uk/ah07/ah07_16.htm>
 
 <https://singout.org/young-hunting-henry-lee-love-henry/>
+
+<https://name.umdl.umich.edu/abf2062.0003.001>

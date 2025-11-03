@@ -46,3 +46,5 @@ Software
 - [ ] Google Drive
 - [ ] Brother Laser Printer
 - [ ] Canon Inkjet Printer
+- [ ] RME Fireface drivers
+- [ ] Behringer UMC drivers

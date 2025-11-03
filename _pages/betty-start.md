@@ -26,25 +26,25 @@ Passmark G3D: 8812
 Software
 --------
 
-- [ ] Ableton Live
-- [ ] MIDI-OX
-- [ ] loopMIDI
-- [ ] VS Code
-- [ ] Git
-- [ ] Adobe Creative Cloud
-- [ ] NanaZip
-- [ ] FreeFileSync
-- [ ] VLC Media Player
-- [ ] WinDirStat
+- [x] Ableton Live
+- [x] MIDI-OX
+- [x] loopMIDI
+- [x] VS Code
+- [x] Git
+- [x] Adobe Creative Cloud
+- [x] NanaZip
+- [x] FreeFileSync
+- [x] VLC Media Player
+- [x] WinDirStat
 - [ ] Room EQ Wizard
-- [ ] Windows Powertoys
-- [ ] GIMP
-- [ ] Cockos Reaper
-- [ ] Roland TR-6s Editor
+- [x] Windows PowerToys
+- [x] GIMP
+- [x] Cockos Reaper
+- [x] Roland TR-6s Editor
 - [ ] Moog Minitaur Editor
 - [ ] Ruby
-- [ ] Google Drive
+- [x] Google Drive
 - [ ] Brother Laser Printer
 - [ ] Canon Inkjet Printer
-- [ ] RME Fireface drivers
+- [x] RME Fireface drivers
 - [ ] Behringer UMC drivers

@@ -1,5 +1,7 @@
+---
+---
 
-
+```
   Trials troubles tribulations  
      such as  
                  never  
@@ -40,3 +42,33 @@ second sight no soft wind
 
       « I am Death
 there is no fullness without me »
+```
+
+---
+    
+   Trials troubles tribulations 
+   Such as never been before 
+   When the sun don't shine his light 
+   And the moon all die of fright 
+   The fire come down from heaven 
+   The blood shall fill the sea
+
+   I've been chosen and anointed 
+   I am come at the dawn of time 
+   And so like lightning strike the east 
+   Flash far out into the west 
+   I am death there is no
+   Fullness without me 
+
+   The mark must be upon your forehead 
+   These worldly goods you then can buy 
+   Depart from me I never knew ya
+   I hear my blessed savior cry
+   No second sight no soft wind
+   Blows no hope for rest
+
+   Depart from me I never knew ya
+   I hear the blessed savior cry 
+   I am death there is no
+   Fullness without me 
+   

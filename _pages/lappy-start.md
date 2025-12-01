@@ -24,3 +24,7 @@ Initialization
 - Spotify
 - Instagram
 - FileZilla
+
+---
+
+iLok License Manager

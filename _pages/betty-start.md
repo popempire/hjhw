@@ -48,3 +48,78 @@ Software
 - [ ] Canon Inkjet Printer
 - [x] RME Fireface drivers
 - [ ] Behringer UMC drivers
+
+VST Plugins
+-----------
+
+- Reverb
+  - Valhalla Room
+  - (Hybrid Reverb)
+  - *Ambience, epicVerb, ReverberateLE, PSP PianoVerb*
+- Delay
+  - Valhalla Delay
+  - Soundtoys EchoBoy
+  - *Valhalla FreqEcho, Supermassive*
+- Compression
+  - DMG TrackComp
+  - UAD Fairchild
+  - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor*
+- EQ
+  - DMG Equality
+  - UAD Pultec collection
+- Preamps & Channel Strips
+  - SSL Channel Strip
+  - API Channel Strip
+  - Neve, Helios, UA, Altec preamps
+  - *DMG TrackControl*
+- Saturation
+  - Ghz Tupe
+  - *Klanghelm SDRR, PSP MixSaturator*
+- Modulation
+  - Valhalla UberMod
+  - Ghz Trem Ctrl
+  - *Valhalla Spacemodulator, TAL Juno chorus*
+- Filter
+  - (Auto Filter)
+  - *Arturia MS-20 filter*
+- Overdrive/Distortion/Fuzz
+  - *brainworx, audio damage FuzzPlus*
+- Pitch Correction
+  - Celemony Melodyne
+- Noise Removal
+  - (Adobe Audition)
+- Metering
+  - DMG TrackMeter, Ghz Loudness
+- Tape
+  - TB ReelBus
+  - *UAD Verve machines*
+- Gate
+  - DMG Expurgate
+- De-esser
+  - DMG Essence
+- Limiter
+  - DMG Limitless
+- Multiband Compresion
+  - DMG Multiplicity *
+- Amp/Cab Sim
+  - Rotary *
+  - Guitar *
+  - Bass *
+  - *Voxengo Boogex*
+- Monosynth
+  - UAD Minimoog
+  - Roland SH-2
+  - *TAL Bassline, ASynth*
+- Soft Synth
+  - SynthMaster One
+  - *TAL Juno*
+  - *sfz*
+- VA synth
+  - Synth1
+  - Discovery
+- Hardware Control
+  - AURA Clavia Nord Editor
+  - Moog Minitaur Editor
+- Tonewheel Organ
+  - Hammond B-3X
+- Electric Piano

@@ -102,7 +102,6 @@ VST Plugins
 - Tape
   - TB ReelBus
   - *UAD Verve machines*
-  - Ghz Wow Ctrl *
 - Overdrive/Distortion/Fuzz
   - *brainworx, audio damage FuzzPlus*
 - Amp/Cab Sim

@@ -130,7 +130,7 @@ VST Plugins
 
 ### by developer
 
-- DMG
+- [DMG](https://www.dmgaudio.com)
   - Equality
   - Essence
   - Expurgate
@@ -139,12 +139,12 @@ VST Plugins
   - TrackMeter
   - *TrackControl*
   - Multiplicity *
-- Valhalla
+- [Valhalla](https://www.valhalladsp.com)
   - Room
   - Delay
   - UberMod
   - *FreqEcho, Spacemodulator, Supermassive*
-- Universal Audio
+- [Universal Audio](https://www.uaudio.com)
   - API channel strip
   - Helios preamp
   - 6176 channel strip
@@ -152,47 +152,47 @@ VST Plugins
   - Moog Minimoog
   - Fairchild limiter
   - *Verve Analog Machines*
-- Goodhertz
+- [Goodhertz](https://www.goodhertz.com)
   - Tupe
   - Trem Control *
-- SSL
+- [SSL](https://www.solidstatelogic.com)
   - ChannelStrip
-- Soundtoys
+- [Soundtoys](https://www.soundtoys.com)
   - EchoBoy
   - Radiator
-- KIT plugins
+- [KIT plugins](https://www.kitplugins.com)
   - BB N73
-- IK Multimedia
+- [IK Multimedia](https://www.ikmultimedia.com)
   - Hammond B-3X
-- Celemony
+- [Celemony](https://www.celemony.com)
   - Melodyne
-- ToneBoosters
+- [ToneBoosters](https://www.tonebooster.com)
   - ReelBus
-- Roland
+- [Roland](https://www.rolandcloud.com)
   - SH-2
-- Arturia
+- [Arturia](https://www.arturia.com)
   - MS-20 Filter
-- KV331
+- [KV331](https://www.kv331audio.com)
   - SynthMaster One
 - Plugin Alliance
   - *brainworx pedals*
-- Klanghelm
+- [Klanghelm](https://klanghelm.com)
   - MJUC
   - SDRR
   - DC8C
-- PSP
+- [PSP](https://www.pspaudioware.com)
   - FETpressor
   - MasterComp
   - PianoVerb
-  - MixSaturator
-- Voxengo
-  - Elephant
+  - MixPack
+- [Voxengo](https://www.voxengo.com/)
   - Deconvolver
-  - CurveEQ
+  - *CurveEQ*
+  - *Elephant*
   - *Boogex, Stereo Touch*
 - AURA plugins
   - Clavia Nord Lead Editor
-- Moog
+- [Moog](https://www.moogmusic.com/downloads/?product=Minitaur)
   - Minitaur Editor
 - TAL
   - Chorus-LX-60

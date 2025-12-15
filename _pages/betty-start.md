@@ -127,3 +127,84 @@ VST Plugins
   - Hammond B-3X
 - Electric Piano
 - (Voxengo Deconvolver)
+
+### by developer
+
+- DMG
+  - Equality
+  - Essence
+  - Expurgate
+  - Limitless
+  - TrackComp
+  - TrackMeter
+  - *TrackControl*
+  - Multiplicity *
+- Valhalla
+  - Room
+  - Delay
+  - UberMod
+  - *FreqEcho, Spacemodulator, Supermassive*
+- Universal Audio
+  - API channel strip
+  - Helios preamp
+  - 6176 channel strip
+  - Pultec EQs
+  - Moog Minimoog
+  - Fairchild limiter
+  - *Verve Analog Machines*
+- Goodhertz
+  - Tupe
+  - Trem Control *
+- SSL
+  - ChannelStrip
+- Soundtoys
+  - EchoBoy
+  - Radiator
+- KIT plugins
+  - BB N73
+- IK Multimedia
+  - Hammond B-3X
+- Celemony
+  - Melodyne
+- ToneBoosters
+  - ReelBus
+- Roland
+  - SH-2
+- Arturia
+  - MS-20 Filter
+- KV331
+  - SynthMaster One
+- Plugin Alliance
+  - *brainworx pedals*
+- Klanghelm
+  - MJUC
+  - SDRR
+  - DC8C
+- PSP
+  - FETpressor
+  - MasterComp
+  - PianoVerb
+  - MixSaturator
+- Voxengo
+  - Elephant
+  - Deconvolver
+  - CurveEQ
+  - *Boogex, Stereo Touch*
+- AURA plugins
+  - Clavia Nord Lead Editor
+- Moog
+  - Minitaur Editor
+- TAL
+  - Chorus-LX-60
+  - U-No-62
+  - Bassline
+- discoDSP
+  - Discovery *
+- Other
+  - Ambience
+  - FuzzPlus
+  - Synth1
+  - epicVerb
+  - ReverberateLE
+  - ASynth
+  - sfz

@@ -171,7 +171,7 @@ VST Plugins
 - [Roland](https://www.rolandcloud.com)
   - SH-2
 - [Arturia](https://www.arturia.com)
-  - MS-20 Filter
+  - *MS-20 Filter*
 - [KV331](https://www.kv331audio.com)
   - SynthMaster One
 - Plugin Alliance
@@ -181,10 +181,10 @@ VST Plugins
   - SDRR
   - DC8C
 - [PSP](https://www.pspaudioware.com)
-  - FETpressor
   - MasterComp
-  - PianoVerb
   - MixPack
+  - FETpressor
+  - *PianoVerb*
 - [Voxengo](https://www.voxengo.com/)
   - Deconvolver
   - *CurveEQ*
@@ -195,16 +195,14 @@ VST Plugins
 - [Moog](https://www.moogmusic.com/downloads/?product=Minitaur)
   - Minitaur Editor
 - TAL
-  - Chorus-LX-60
-  - U-No-62
-  - Bassline
+  - *Chorus-LX-60, U-No-62, Bassline*
 - discoDSP
   - Discovery *
 - Other
   - Ambience
   - FuzzPlus
   - Synth1
-  - epicVerb
-  - ReverberateLE
-  - ASynth
-  - sfz
+  - *epicVerb*
+  - *ReverberateLE*
+  - *ASynth*
+  - *sfz*

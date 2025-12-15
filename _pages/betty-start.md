@@ -56,6 +56,7 @@ VST Plugins
   - DMG TrackComp
   - UAD Fairchild
   - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor*
+  - DMG Compassion *
 - Gate
   - DMG Expurgate
 - De-esser
@@ -67,6 +68,7 @@ VST Plugins
 - EQ
   - DMG Equality
   - UAD Pultec collection
+  - DMG Equilibrium *
 - Preamps & Channel Strips
   - SSL Channel Strip
   - UAD API Channel Strip
@@ -100,6 +102,7 @@ VST Plugins
 - Tape
   - TB ReelBus
   - *UAD Verve machines*
+  - Ghz Wow Ctrl
 - Overdrive/Distortion/Fuzz
   - *brainworx, audio damage FuzzPlus*
 - Amp/Cab Sim
@@ -124,3 +127,4 @@ VST Plugins
 - Tonewheel Organ
   - Hammond B-3X
 - Electric Piano
+- (Voxengo Deconvolver)

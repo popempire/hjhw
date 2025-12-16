@@ -130,6 +130,8 @@ VST Plugins
 
 ### by developer
 
+### current/future use
+
 - [DMG](https://www.dmgaudio.com)
   - Equality
   - Essence
@@ -170,12 +172,25 @@ VST Plugins
   - ReelBus
 - [Roland](https://www.rolandcloud.com)
   - SH-2
-- [Arturia](https://www.arturia.com)
-  - *MS-20 Filter*
 - [KV331](https://www.kv331audio.com)
   - SynthMaster One
 - Plugin Alliance
   - *brainworx pedals*
+- [Arturia](https://www.arturia.com)
+  - *MS-20 Filter*
+- Other
+  - Ambience
+  - FuzzPlus
+  - Synth1
+- discoDSP
+  - Discovery *
+- [AURA plugins](https://auraplugins.com)
+  - Clavia Nord Lead Editor
+- [Moog](https://www.moogmusic.com/downloads/?product=Minitaur)
+  - Minitaur Editor
+
+#### previous regime
+
 - [Klanghelm](https://klanghelm.com)
   - MJUC
   - SDRR
@@ -186,23 +201,24 @@ VST Plugins
   - FETpressor
   - *PianoVerb*
 - [Voxengo](https://www.voxengo.com/)
-  - Deconvolver
   - *CurveEQ*
   - *Elephant*
   - *Boogex, Stereo Touch*
-- AURA plugins
-  - Clavia Nord Lead Editor
-- [Moog](https://www.moogmusic.com/downloads/?product=Minitaur)
-  - Minitaur Editor
 - TAL
   - *Chorus-LX-60, U-No-62, Bassline*
-- discoDSP
-  - Discovery *
 - Other
-  - Ambience
-  - FuzzPlus
-  - Synth1
   - *epicVerb*
   - *ReverberateLE*
   - *ASynth*
   - *sfz*
+  - *Limiter No. 6, Molot*
+
+### audio utilities
+
+- Minitaur Editor
+- TR-6s Editor
+- Audacity
+- Midi-OX
+- loopMIDI
+- Midiberry
+- RoomEQWizard

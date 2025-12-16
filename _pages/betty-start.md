@@ -26,64 +26,94 @@ Passmark G3D: 8812
 Software
 --------
 
+### DAWs
+
 - [x] Ableton Live
-- [x] MIDI-OX
-- [x] loopMIDI
-- [x] VS Code
-- [x] Git
-- [x] Adobe Creative Cloud
-- [x] NanaZip
-- [x] FreeFileSync
-- [x] VLC Media Player
-- [x] WinDirStat
-- [ ] Room EQ Wizard
-- [x] Windows PowerToys
-- [x] GIMP
 - [x] Cockos Reaper
-- [x] Roland TR-6s Editor
-- [ ] Moog Minitaur Editor
-- [ ] Ruby
-- [x] Google Drive
-- [ ] Brother Laser Printer
-- [ ] Canon Inkjet Printer
+
+### audio utilities
+
 - [x] RME Fireface drivers
 - [ ] Behringer UMC drivers
+- [x] MIDI-OX
+- [x] loopMIDI
+- [ ] REW
+- [ ] Minitaur Editor
+- [x] TR Editor
+- [ ] Audacity
+- [ ] X-AIR-Edit
+- [ ] MIDIberry
+- [ ] JBridge
+- [ ] Psycle
+- [x] VLC Media Player
+
+### system utilities
+
+- [x] VS Code
+- [x] Git
+- [ ] Ruby
+- [x] NanaZip
+- [x] FreeFileSync
+- [x] WinDirStat
+- [x] Windows PowerToys
+- [x] Google Drive
+- [ ] FileZilla
+- [ ] Brother Laser Printer
+- [ ] Canon Inkjet Printer
+
+### graphics
+
+- [x] GIMP
+
+### product managers
+
+- [x] Adobe Creative Cloud
+- [ ] iLok License Manager
+- UA Connect
+- Roland Cloud Manager
+- SSL Download Manager
+- IK Product Manager
+- Plugin Alliance Download Manager
+- Arturia Software Center
+
+
 
 VST Plugins
 -----------
 
 - Compression
-  - DMG TrackComp
-  - UAD Fairchild
+  - **DMG TrackComp**
+  - **UAD Fairchild**
   - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor*
   - DMG Compassion *
 - Gate
-  - DMG Expurgate
+  - **DMG Expurgate**
 - De-esser
-  - DMG Essence
+  - **DMG Essence**
 - Limiter
-  - DMG Limitless
+  - **DMG Limitless**
 - Multiband Compresion
   - DMG Multiplicity *
 - EQ
-  - DMG Equality
-  - UAD Pultec collection
+  - **DMG Equality**
+  - **UAD Pultec collection**
   - DMG Equilibrium *
 - Preamps & Channel Strips
-  - SSL Channel Strip
+  - **SSL Channel Strip**
   - UAD API Channel Strip
   - Neve, Helios, UA, Altec preamps
   - *DMG TrackControl*
 - Saturation
-  - Ghz Tupe
-  - *Klanghelm SDRR, PSP MixSaturator*
+  - **Ghz Tupe**
+  - *Klanghelm SDRR*
+  - *PSP MixSaturator*
 - Reverb
-  - Valhalla Room
+  - **Valhalla Room**
   - (Hybrid Reverb)
   - *Ambience, epicVerb, ReverberateLE, PSP PianoVerb*
 - Delay
-  - Valhalla Delay
-  - Soundtoys EchoBoy
+  - **Valhalla Delay**
+  - **Soundtoys EchoBoy**
   - *Valhalla FreqEcho, Supermassive*
 - Modulation
   - Valhalla UberMod
@@ -93,11 +123,11 @@ VST Plugins
   - (Auto Filter)
   - *Arturia MS-20 filter*
 - Pitch Correction
-  - Celemony Melodyne
+  - **Celemony Melodyne**
 - Noise Removal
   - (Adobe Audition)
 - Metering
-  - DMG TrackMeter
+  - **DMG TrackMeter**
   - *Ghz Loudness*
 - Tape
   - TB ReelBus
@@ -110,8 +140,8 @@ VST Plugins
   - Bass *
   - *Voxengo Boogex*
 - Monosynth
-  - UAD Minimoog
-  - Roland SH-2
+  - **UAD Minimoog**
+  - **Roland SH-2**
   - *TAL Bassline, ASynth*
 - VA synth
   - Synth1
@@ -124,7 +154,7 @@ VST Plugins
   - AURA Clavia Nord Editor
   - Moog Minitaur Editor
 - Tonewheel Organ
-  - Hammond B-3X
+  - **Hammond B-3X**
 - Electric Piano
 - (Voxengo Deconvolver)
 
@@ -212,13 +242,3 @@ VST Plugins
   - *ASynth*
   - *sfz*
   - *Limiter No. 6, Molot*
-
-### audio utilities
-
-- Minitaur Editor
-- TR-6s Editor
-- Audacity
-- Midi-OX
-- loopMIDI
-- Midiberry
-- RoomEQWizard

@@ -26,5 +26,3 @@ Initialization
 - FileZilla
 
 ---
-
-iLok License Manager

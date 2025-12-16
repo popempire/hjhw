@@ -40,9 +40,11 @@ Software
 - [ ] REW
 - [ ] Minitaur Editor
 - [x] TR Editor
+- [ ] Legend '70s Editor
 - [ ] Audacity
 - [ ] X-AIR-Edit
 - [ ] MIDIberry
+- [ ] ASIO4ALL
 - [ ] JBridge
 - [ ] Psycle
 - [x] VLC Media Player
@@ -133,6 +135,7 @@ VST Plugins
   - TB ReelBus
   - *UAD Verve machines*
 - Overdrive/Distortion/Fuzz
+  - Efektor Bass Driver
   - *brainworx, audio damage FuzzPlus*
 - Amp/Cab Sim
   - Rotary *

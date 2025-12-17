@@ -34,19 +34,20 @@ Software
 ### audio utilities
 
 - [x] RME Fireface drivers
-- [ ] Behringer UMC drivers
+- [x] Behringer UMC drivers
+- [x] MOTU MIDI drivers
 - [x] MIDI-OX
 - [x] loopMIDI
-- [ ] REW
-- [ ] Minitaur Editor
+- [x] REW
+- [x] Minitaur Editor
 - [x] TR Editor
-- [ ] Legend '70s Editor
-- [ ] Audacity
-- [ ] X-AIR-Edit
+- [x] Legend '70s Editor
+- [x] Audacity
+- [x] X-AIR-Edit
 - [ ] MIDIberry
-- [ ] ASIO4ALL
-- [ ] JBridge
-- [ ] Psycle
+- [x] ASIO4ALL
+- [x] JBridge
+- [x] Psycle
 - [x] VLC Media Player
 
 ### system utilities
@@ -59,8 +60,8 @@ Software
 - [x] WinDirStat
 - [x] Windows PowerToys
 - [x] Google Drive
-- [ ] FileZilla
-- [ ] Brother Laser Printer
+- [x] FileZilla
+- [x] Brother Laser Printer
 - [ ] Canon Inkjet Printer
 
 ### graphics
@@ -70,7 +71,7 @@ Software
 ### product managers
 
 - [x] Adobe Creative Cloud
-- [ ] iLok License Manager
+- [x] iLok License Manager
 - UA Connect
 - Roland Cloud Manager
 - SSL Download Manager
@@ -120,7 +121,7 @@ VST Plugins
   - Valhalla FreqEcho
   - Valhalla Supermassive*
 - Modulation
-  - *Valhalla UberMod*
+  - **Valhalla UberMod**
   - Ghz Trem Ctrl *
   - Valhalla Spacemodulator
   - *TAL Juno chorus*

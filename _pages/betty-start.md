@@ -216,7 +216,7 @@ VST Plugins
   - Hammond B-3X
 - [Celemony](https://www.celemony.com)
   - Melodyne
-- [ToneBoosters](https://www.tonebooster.com)
+- [ToneBoosters](https://www.toneboosters.com)
   - ReelBus
 - [Roland](https://www.rolandcloud.com)
   - SH-2

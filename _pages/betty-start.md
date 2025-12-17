@@ -215,12 +215,16 @@ VST Plugins
   - Ambience
   - FuzzPlus
   - Synth1
+  - Efektor Bass Driver
+  - Sforzando
 - discoDSP
   - Discovery *
 - [AURA plugins](https://auraplugins.com)
   - Clavia Nord Lead Editor
 - [Moog](https://www.moogmusic.com/downloads/?product=Minitaur)
   - Minitaur Editor
+- [Cockos](https://www.reaper.fm/reaplugs/)
+  - ReaPlugs
 
 #### previous regime
 

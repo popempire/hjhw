@@ -84,10 +84,16 @@ Software
 VST Plugins
 -----------
 
+<https://docs.google.com/spreadsheets/d/122RBlPyUhoN5mvVQHEAvc81897_K_2tTXB_P_aLyCqQ/edit?gid=0#gid=0>
+
 - Compression
   - **DMG TrackComp**
   - **UAD Fairchild**
-  - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor, MixPressor*
+  - *Klanghelm DC8C*
+  - *Klanghelm MJUC*
+  - *PSP MasterComp*
+  - *PSP FETpressor*
+  - *PSP MixPressor*
   - DMG Compassion *
 - Gate
   - **DMG Expurgate**
@@ -105,7 +111,10 @@ VST Plugins
 - Preamps & Channel Strips
   - **SSL Channel Strip**
   - UAD API Channel Strip
-  - Neve, Helios, UA, Altec preamps
+  - KIT BB N73 (Neve preamp)
+  - UAD Helios preamp
+  - UAD 6176 Channel Strip 
+  - Soundtoys Radiator (Altec preamp)
   - DMG TrackControl
 - Saturation
   - **Ghz Tupe**
@@ -114,17 +123,19 @@ VST Plugins
 - Reverb
   - **Valhalla Room**
   - (Hybrid Reverb)
-  - *Ambience, epicVerb, ReverberateLE, PSP PianoVerb*
+  - *Ambience
+  - *epicVerb*
+  - *ReverberateLE*
 - Delay
   - **Valhalla Delay**
   - **Soundtoys EchoBoy**
   - Valhalla FreqEcho
-  - Valhalla Supermassive*
+  - *Valhalla Supermassive*
 - Modulation
   - **Valhalla UberMod**
   - Ghz Trem Ctrl *
-  - Valhalla Spacemodulator
-  - *TAL Juno chorus*
+  - *Valhalla Spacemodulator*
+  - *TAL Chorus-LX*
 - Filter
   - (Auto Filter)
   - *Arturia MS-20 filter*
@@ -140,7 +151,7 @@ VST Plugins
   - *UAD Verve machines*
 - Overdrive/Distortion/Fuzz
   - Efektor Bass Driver
-  - *brainworx pedals*
+  - brainworx pedals
   - *FuzzPlus*
 - Amp/Cab Sim
   - Rotary *
@@ -150,7 +161,7 @@ VST Plugins
 - Monosynth
   - **UAD Minimoog**
   - **Roland SH-2**
-  - *TAL Bassline, ASynth*
+  - *ASynth*
 - VA synth
   - Synth1
   - Discovery *

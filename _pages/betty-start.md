@@ -157,7 +157,6 @@ VST Plugins
 - Soft Synth
   - SynthMaster One
   - Sforzando
-  - *TAL Juno*
   - *sfz*
 - Hardware Control
   - AURA Clavia Nord Editor
@@ -177,7 +176,7 @@ VST Plugins
   - Limitless
   - TrackComp
   - TrackMeter
-  - *TrackControl*
+  - TrackControl
   - Multiplicity *
 - [Valhalla](https://www.valhalladsp.com)
   - Room
@@ -213,7 +212,7 @@ VST Plugins
 - [KV331](https://www.kv331audio.com)
   - SynthMaster One
 - Plugin Alliance
-  - *brainworx pedals*
+  - brainworx pedals
 - [Arturia](https://www.arturia.com)
   - *MS-20 Filter*
 - Other
@@ -227,6 +226,8 @@ VST Plugins
   - Minitaur Editor
 - [Cockos](https://www.reaper.fm/reaplugs/)
   - ReaPlugs
+- TAL
+  - Chorus-LX
 
 #### previous regime
 
@@ -244,10 +245,6 @@ VST Plugins
   - *CurveEQ*
   - *Elephant*
   - *Boogex*
-- TAL
-  - *Chorus-LX-60*
-  - *U-No-62*
-  - *Bassline*
 - Other
   - Ambience
   - FuzzPlus

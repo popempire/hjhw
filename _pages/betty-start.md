@@ -86,7 +86,7 @@ VST Plugins
 - Compression
   - **DMG TrackComp**
   - **UAD Fairchild**
-  - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor*
+  - *Klanghelm DC8C, MJUC, PSP MasterComp, FETpressor, MixPressor*
   - DMG Compassion *
 - Gate
   - **DMG Expurgate**
@@ -100,11 +100,12 @@ VST Plugins
   - **DMG Equality**
   - **UAD Pultec collection**
   - DMG Equilibrium *
+  - *PTEq-X*
 - Preamps & Channel Strips
   - **SSL Channel Strip**
   - UAD API Channel Strip
   - Neve, Helios, UA, Altec preamps
-  - *DMG TrackControl*
+  - DMG TrackControl
 - Saturation
   - **Ghz Tupe**
   - *Klanghelm SDRR*
@@ -116,11 +117,13 @@ VST Plugins
 - Delay
   - **Valhalla Delay**
   - **Soundtoys EchoBoy**
-  - *Valhalla FreqEcho, Supermassive*
+  - Valhalla FreqEcho
+  - Valhalla Supermassive*
 - Modulation
-  - Valhalla UberMod
-  - Ghz Trem Ctrl
-  - *Valhalla Spacemodulator, TAL Juno chorus*
+  - *Valhalla UberMod*
+  - Ghz Trem Ctrl *
+  - Valhalla Spacemodulator
+  - *TAL Juno chorus*
 - Filter
   - (Auto Filter)
   - *Arturia MS-20 filter*
@@ -136,7 +139,8 @@ VST Plugins
   - *UAD Verve machines*
 - Overdrive/Distortion/Fuzz
   - Efektor Bass Driver
-  - *brainworx, audio damage FuzzPlus*
+  - *brainworx pedals*
+  - *FuzzPlus*
 - Amp/Cab Sim
   - Rotary *
   - Guitar *
@@ -151,6 +155,7 @@ VST Plugins
   - Discovery *
 - Soft Synth
   - SynthMaster One
+  - Sforzando
   - *TAL Juno*
   - *sfz*
 - Hardware Control
@@ -159,7 +164,6 @@ VST Plugins
 - Tonewheel Organ
   - **Hammond B-3X**
 - Electric Piano
-- (Voxengo Deconvolver)
 
 ### by developer
 
@@ -212,10 +216,7 @@ VST Plugins
 - [Arturia](https://www.arturia.com)
   - *MS-20 Filter*
 - Other
-  - Ambience
-  - FuzzPlus
-  - Synth1
-  - Efektor Bass Driver
+  - Efektor Bass Driver *
   - Sforzando
 - discoDSP
   - Discovery *
@@ -238,14 +239,21 @@ VST Plugins
   - FETpressor
   - *PianoVerb*
 - [Voxengo](https://www.voxengo.com/)
+  - Stereo Touch
   - *CurveEQ*
   - *Elephant*
-  - *Boogex, Stereo Touch*
+  - *Boogex*
 - TAL
-  - *Chorus-LX-60, U-No-62, Bassline*
+  - *Chorus-LX-60*
+  - *U-No-62*
+  - *Bassline*
 - Other
+  - Ambience
+  - FuzzPlus
+  - Synth1
+  - PTEq-X
+  - Limiter No. 6
   - *epicVerb*
   - *ReverberateLE*
   - *ASynth*
   - *sfz*
-  - *Limiter No. 6, Molot*

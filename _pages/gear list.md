@@ -1,7 +1,144 @@
 ---
 ---
-GEAR LIST
-=========
+
+Imperial Popular Orchestra
+--------------------------
+
+- VA synth
+- tonewheel organ
+- electric piano
+- american monosynth
+- japanese monosynth
+- drum machine
+- electric guitar (tele)
+- electric guitar (LP)
+- electric bass
+- acoustic guitar
+- acoustic piano
+- drumkit
+  - bass drum
+  - snare
+  - floor tom
+  - rack tom
+  - hi hats
+  - cymbal(s)
+  - hardware
+- percussion
+  - shaker
+  - tambourine
+  - rattle
+  - bell
+- pump organ
+- banjo
+- harp(s)
+
+
+DSP checklist
+-------------
+
+- Reverb
+  - algorithmic
+  - convolution
+- Delay
+- Preamps & Channel Strips
+  - API channel
+  - SSL channel
+  - Neve pre
+  - Tube pre
+- Compression
+  - dbx
+  - SSL bus
+  - API bus
+  - FET
+  - opto
+  - Zener
+  - Fairchild
+  - digital
+- EQ
+  - digital
+  - Pultec
+  - console (SSL, API, Neve)
+- Modulation FX
+  - chorus/vibrato
+  - tremolo
+  - phaser
+  - pitch shift
+- Filter
+- Saturation
+- Overdrive/Distortion/Fuzz
+- Gtr Amp/Cab
+- Bass Amp/Cab
+- Rotary Spkr
+- Pitch Correction
+- Noise Removal
+- Metering
+- Tape
+- Gate
+- De-esser
+- Limiter
+- Multiband Compression
+
+
+Drumset Inventory
+-----------------
+
+tom bag
+snare bag
+drum tuner
+brushes
+tom heads
+= 225.86
+
+kick pedal bag
+= 43.11
+
+kick pedal
+= 75.44
+
+snare drum
+= 419.34
+
+cymbal
+= 441.99
+
+snare stand
+drum throne
+= 114.25
+
+hardware bag
+= 48.50
+
+mallets
+cymbal stands
+= 175.69
+
+hi hats
+hi hat stand
+= 659.94
+
+bass drum
+= 537.92
+
+bass drum heads
+= 91.62
+
+floor tom
+= 226.37
+
+TOTAL
+= 3,060.03
+
+bass drum bag
+
+rack tom mount
+tom head
+
+rack tom
+
+
+
+GEAR LIST ca 2021
+-----------------
 
     PA
 

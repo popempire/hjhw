@@ -38,6 +38,7 @@ Software
 - [x] MOTU MIDI drivers
 - [x] MIDI-OX
 - [x] loopMIDI
+- [ ] AbleSet
 - [x] REW
 - [x] Minitaur Editor
 - [x] TR Editor

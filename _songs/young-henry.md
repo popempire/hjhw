@@ -126,3 +126,44 @@ cast her into the fire, and she burns. The end.
 The most important drama in this story is between the two women, rather than
 between the first woman and her ex-lover, which just sets up the action.
 And what can we say about the talking bird?
+
+The idea of "poetic justice" is probably both very ancient and very current.
+I think of Lorde's "Writer in the Dark" from the album *Melodrama* (2017):
+"Bet you rue the day you kissed a writer in the dark / Now she's gonna play and
+sing and lock you in her heart". I think that captures the kind of revenge 
+fantasy that has appealed to jilted lovers with a literary inclination since at 
+least Catullus (and surely long before). "Writer in the Dark" oscillates between
+indulging in this fantasy and celebrating the perspective shift and personal 
+growth that can come from a breakup, without really settling on either side.
+
+Human societies have surely always had to wrestle with the question of how far
+vengeance should be allowed to go before it is a bigger problem than whatever
+it was supposed to punish. In the case of "Young Hunting", or "Loving Henry" as 
+he is called in some versions, the bird appears to exact some kind of poetic 
+vengeance on the woman who has allowed her own desire for revenge to become
+something too real and disproprtionate.
+
+It is easy to see the emotional appeal for a sad, lonely troubador in singing
+the ballad of "Young Hunting" from the point of view of the unfortunate 
+namesake. He is able to inhabit the role of both victim and avenger in the form
+of the talking bird, a supernatural presence.
+
+Later American versions of this ballad which conclude after the back and forth
+taunting of the woman and talking bird seem to fit well into a developed 
+Christian moral understanding of revenge. The repayment for the woman's murdering
+young Hunting is estrangement from Nature, emotional desolation, and perhaps a 
+comeuppance in the final judgment. There is a sort of chivalrous romanticism
+to this version which must have appealed to later British as well as American
+singers. Yet these versions have merely truncated a great deal of the action 
+in earlier versions of the ballad. The taunting of the bird is no finale but
+just setting the stage for the second act of this play. In fact, if the talking
+bird has any real significance in the early versions of the story, it is not in
+its interactions with the woman, but in its tipping off the authorities on 
+where and how to look for the body. Notably, the bird is actually left out of 
+some versions of the song, presumably because some singers did not find the 
+introduction of a supernatural element such as this to be necessary to the 
+functioning of the revenge fantasy, which is the real thrust of this song for 
+them. For the earliest texts of this ballad carry through to the point where
+the woman receives full punishment for her murder, typically by being burned
+at the stake.
+

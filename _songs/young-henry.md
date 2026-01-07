@@ -38,19 +38,25 @@ Bronson alludes to a relationship between this ballad and *Lady Isabel* (Child N
 
 The story centers on a young noblewoman — in some versions her name is Lady Maisry.
 As the scene opens, she has just become aware that her former lover is arriving
-upon her land. He is known by various aliases in different versions:
-young Hunting, young Riedan, Earl Richard, Sir William, lovin' Henry.
+upon her land.
 
 From very early on, there seems to be a degree of uncertainty in the texts as to 
 whether "hunting" is a proper name or just a descriptor of the ill-fated ex-lover.
-I hypothesize therefore that Hunting was indeed the man's original name. It would
+It seems likely that Hunting was indeed the man's original name. It would
 be natural enough for a listener to hear the ballad and interpret the somewhat
 unusual name as a description of someone who was literally hunting, or who was
-known to enjoy hunting. It would be less likely that a young man who was said to
-be hunting, because he was literally hunting, would be assumed to be *named*
-Hunting.
+known to enjoy hunting. It is less likely that a young man who was said to
+be hunting, simply because he was in fact hunting, would be assumed to be *named*
+Hunting. On the other hand, this ballad arose in the days of yore when surnames
+were not so established as they are now, and people were still acquiring names
+by doing certain things or having distinctive characteristics. So perhaps 
+"Hunting" began as a description and then became a name. Sometimes he is called
+"Young Hunting", sometimes "a hunting young man", and indeed he is known by many
+various aliases is different versions: young Riedan, Earl Richard, Sir William, 
+lovin' Henry. In the ballad tradition, it is often the names that are 
+changed to suit the occasion, while the story remains the same.
 
-With seductive intention, we presume, she trie to convince him to stay with
+With seductive intention, we presume, she tries to convince him to stay with
 her overnight — or at least to stay for a few drinks. He does not agree to stay
 the night with her, and almost invariably he insults her by declaring his 
 preference for an unnamed woman elsewhere, but he does agree to hang out and 

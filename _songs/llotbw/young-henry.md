@@ -3,6 +3,19 @@
 Young Henry
 ===========
 
+This song has also been known as "Henry Lee" (as by Dick Justice)
+and earlier as "Young Hunting" (Child No. 68).
+
+Bronson pp. 174-178
+
+The tune used in this version is a new invention which came to me
+on my drive back from Albuquerque NM to Cincinnati OH (January 2019, I think)
+although it was not until some while later that I connected it to the text.
+
+I tried the tunes used on this album for "Tom Dula" and "Young Henry" swapped.
+
+---
+
 *Roud 47*
 
 This song has also been known as “Henry Lee” (as by Dick Justice) 

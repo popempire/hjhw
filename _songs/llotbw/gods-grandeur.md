@@ -22,3 +22,9 @@ A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910
     Because the Holy Ghost over the bent
         World broods with warm breast and with ah! bright wings.
 
+---
+
+The masculine aspect of the divine depicted in the first stanza (the God whose
+efficacy is symbolized by his rod) is contrasted with the feminine aspect of the
+divine in the second (the Holy Ghost who broods over her offspring).
+In this comparison, favor is given to the feminine aspect.

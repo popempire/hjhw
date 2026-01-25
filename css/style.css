@@ -18,6 +18,14 @@ body {
     padding: 0.5rem;
   }
 }
+@media print {
+  body {
+    margin-left: 0.25in;
+  }
+  footer {
+    display: none;
+  }
+}
 
 main {
   width: 100%;

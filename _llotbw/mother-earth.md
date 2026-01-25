@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mother Earth
 ---
 
@@ -40,7 +41,7 @@ new arrangement by Pop Empire
   heart can easily let itself be dazzled, so I see it as a great grace not to
   have stayed in Alençon. The friends that we had there were too worldly...
   They didn't think about *death* enough, and yet *death* has come to visit a
-  great number of persons whom I have know, young, rich, and happy!
-
-    - St. Therese of Lisieux, *The Story of a Soul* pp. 71-72 (trans. Robert J. Edmonson, Paraclete Press 2006)
+  great number of persons whom I have know, young, rich, and happy!  
+  > 
+  > — St. Therese of Lisieux, *The Story of a Soul* pp. 71-72 (trans. Robert J. Edmonson, Paraclete Press 2006)
 

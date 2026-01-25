@@ -34,3 +34,13 @@ new arrangement by Pop Empire
 
 ---
 
+  > God gave me the grace to know the *world* only enough to hold it in contempt
+  and remove myself from it... I was received with open arms, fussed over, 
+  admired... I admit that this life had charms for me... At the age of ten the
+  heart can easily let itself be dazzled, so I see it as a great grace not to
+  have stayed in Alençon. The friends that we had there were too worldly...
+  They didn't think about *death* enough, and yet *death* has come to visit a
+  great number of persons whom I have know, young, rich, and happy!
+
+    - St. Therese of Lisieux, *The Story of a Soul* pp. 71-72 (trans. Robert J. Edmonson, Paraclete Press 2006)
+

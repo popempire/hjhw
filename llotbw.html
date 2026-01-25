@@ -1,0 +1,34 @@
+---
+layout: default
+title: last lights off the black west
+permalink: llotbw/
+---
+<hgroup>
+  <h1>last lights off the black west</h1>
+  <p>photographs by michael wilson, words by henry james house</p>
+</hgroup>
+
+<main>
+
+<ul>
+  {% for page in site.llotbw %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<!--p><a href="{% link _posts/2025-01-08-preface.md %}">250108 preface</a></p-->
+
+<h2>tagged posts</h2>
+
+{% assign posts_with_tag = site.posts | where_exp: "item", "item.tags contains 'llotbw'" %}
+<ul>
+{% for post in posts_with_tag %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+</main>
+
+{% include footer.html %}

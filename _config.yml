@@ -21,3 +21,7 @@ collections:
   
   song_ideas:
     output: true
+
+  llotbw:
+    output: true
+  

@@ -28,3 +28,4 @@ The masculine aspect of the divine depicted in the first stanza (the God whose
 efficacy is symbolized by his rod) is contrasted with the feminine aspect of the
 divine in the second (the Holy Ghost who broods over her offspring).
 In this comparison, favor is given to the feminine aspect.
+

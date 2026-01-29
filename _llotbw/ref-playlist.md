@@ -1,0 +1,44 @@
+---
+layout: page
+title: LLOTBW Reference Playlist
+---
+
+ - **Angel** - Massive Attack
+ - **Dying Crapshooter's Blues** - Blind Willie McTell
+ - **Silver Dagger** - Joan Baez
+ - **Aly, Walk Wiith Me** - The Raveonettes
+ - **Mother Earth** - Memphis Slim
+ - **One I Love** - Jean Ritchie
+ - **Tom Dooley** - Doc Watson
+ - **Tom Dooley** - The Kingston Trio
+ - **The Living End** - The Jesus and Mary Chain
+ - **Quiet Joys of Brotherhood** - Sandy Denny
+ - **Henry Lee** - Dick Justice
+ - **Young Hunting** - Nancy Kerr & James Fagan
+ - **Sweet Sunny South** - Maiden Radio
+ - **Rock Me (Hide Me in Thy Bosom)** - Lead Belly & Anne Graham
+ - **Hide Me in Thy Bosom** - Blind Willie McTell
+ - **Rock Me** - Sister Rosetta Tharpe (& Lucky Millinder & His Orchestra)
+ - **Sitting On Top of the World** - Mississippi Sheiks
+ - **Some Summer Day** - Charley Patton
+ - **Sittin On Top of the World** - Doc Watson
+ - **Me & Mr. Hohner** - Bobby Darin
+ - **Clap Hands** - Tom Waits
+ - **If I Should Fall from Grace with God** - The Pogues
+ - **Frankie and Johnny** - Jimmie Rodgers
+ - **Alcohol and Jake Blues** - Tommy Johnson
+ - **Satan Is Real** - The Louvin Brothers
+ - **Who Do You Love** - Bo Diddley
+ - **Sympathy For the Devil** - The Rolling Stones
+ - **War Machine** - Black Rebel Motorcycle Club
+ - **Little Margaret** - Karen Dalton
+ - **My Lagan Love** - The Chieftains & Lisa Hannigan
+ - **Graveyard Blues** - Roscoe Holcomb
+ - **Billie Holiday** - Warpaint
+ - **514 376-9230** - Essaie Pas
+ - **Ruination Day, Pt. 2** - Gillian Welch
+ - **Kissing In the Dark** - Memphis Minnie
+ - **Everybody Daylight** - Brightblack Morning Light
+ - **Writer In the Dark** - Lorde
+ - **I'm the Echo** - Darkside
+ - **The Sanity Assassin** - Bauhaus

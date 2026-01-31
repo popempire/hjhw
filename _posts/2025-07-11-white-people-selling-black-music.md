@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: bio songwriting
+tags: bio songwriting music-history music-biz
 ---
 
 ### tangent of thought

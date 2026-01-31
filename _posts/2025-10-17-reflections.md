@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: instrospection
 ---
 
 I get home from work, and almost immediately I want to turn on some kind of 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Octave Equivalence
+tags: music
 ---
 
 __Octave equivalence__ is a musical practice where tones of a given frequency

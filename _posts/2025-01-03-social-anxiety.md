@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: introspection music anxiety
 ---
 
 ### Social Anxiety

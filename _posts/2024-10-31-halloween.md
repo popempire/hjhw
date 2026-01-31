@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Halloween 2024"
+tags: recording instinct anxiety
 ---
 
 Oof, two weeks with no writing.

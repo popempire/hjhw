@@ -78,6 +78,7 @@ The fear of god is an instinct.
 It is not being afraid of god. 
 An English speaker would naturally get this confused.
 The fear of spiders (*arachnaphobia*) is being afraid of spiders.
+The fear of butterflies (*lepidopterophobia*) is being afraid of butterflies.
 This is a standardized formula: "The fear of ___".
 But the fear of god is the fear that comes with the presence of god.
 It may seems like an overly subtle distinction between this and being afraid of god,

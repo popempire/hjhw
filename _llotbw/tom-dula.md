@@ -148,3 +148,24 @@ was too passive to put a stop to it.
 
 ---
 
+In an instance of local pride triumphing over good taste,
+the people of Wilkes County, North Carolina, in 2001 ceremonially acquitted
+Tom Dula of charges for which he had been hanged 133 years prior.
+The sentiment runs deep in the culture of the communities that settled the 
+American backcountry that if a person becomes famous enough they can act with
+impunity. Tom Dula could never have been expected to be that kind of famous when
+he was born. He was merely infamous when he died. Yet by happenstance related 
+directly to the power of song, his name eventually became one of the most famous
+in the American tradition.
+
+Several thousand murders occur in the United States every year, and probably
+many millions of tales of heartbreak. A certain proportion of these are even
+spectacular. Yet it is quite rare for the bones of one of these gruesome stories
+to harden into a folk ballad. It is rather like the rarity of fossilization of 
+biological remains. Bones last far longer than flesh, as we are well aware,
+but even bones return to dust — for them to last a truly long time, e.g. for
+a hundred million years, very specific conditions must occur which lead to a
+remarkable process of mineralization. These rare fossilized remains can become
+very famous after a very, very long time. For us today, they become the exemplary
+specimens of a certain way of life. They may not have been seen that way at all
+in their own time.

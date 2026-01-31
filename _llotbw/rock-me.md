@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Rock Me (Hide Me in Thy Bosom)
 ---
 

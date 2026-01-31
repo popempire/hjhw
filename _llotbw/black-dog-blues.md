@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 Manuscript annotations identify the black dog in the song as *Lazarus*

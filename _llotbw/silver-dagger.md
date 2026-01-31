@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Dying Silver Dagger Blues
 ---
 
 Joan Baez - Silver Dagger

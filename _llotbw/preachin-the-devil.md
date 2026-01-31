@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Preachin' the Devil
 ---
 
   + Preachin the Blues - Bessie Smith

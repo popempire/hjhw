@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Tom Dula
 ---
 
 Roud 4192

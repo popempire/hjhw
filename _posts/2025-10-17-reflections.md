@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: instrospection
+tags: introspection
 ---
 
 I get home from work, and almost immediately I want to turn on some kind of 

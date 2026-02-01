@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: posts/
+title: archive of posts
+---
+
+<main>
+  
+<h2>posts</h2>
+
+<a href="tags/">view posts by tag</a>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+</main>
+
+{% include footer.html %}

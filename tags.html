@@ -9,7 +9,7 @@ permalink: tags/
 {% assign sortedTags = site.tags | sort %}
 {% for tag in sortedTags %}
 <details>
-  <summary>{{ tag[0] }} ({{ tag[1].size }})</summary>
+  <summary><b>{{ tag[0] }}</b> ({{ tag[1].size }})</summary>
   <ul>
     {% for post in tag[1] %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a></li>

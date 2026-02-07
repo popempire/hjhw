@@ -3,6 +3,9 @@
 Young Henry
 ===========
 
+- *Henry Lee* - Dick Justice  
+- *Young Hunting* - Trad. cp. Nancy Kerr
+
 This song has also been known as "Henry Lee" (as by Dick Justice)
 and earlier as "Young Hunting" (Child No. 68).
 

@@ -3,6 +3,11 @@ layout: page
 title: Lagan Dream
 ---
 
+- *My Lagan Love* - Joseph Campbell / Trad.  
+  cf. Sinead O'Connor, Lisa Hannigan & The Chieftains
+- *Angel* - Massive Attack
+- *The Quiet Joys of Brotherhood* - Sandy Denny
+
 From "My Lagan Love" (Roud 1418) traditional Irish air, first collected in 1903
 in northern Donegal County. English lyrics attributed to Joseph Campbell.
 

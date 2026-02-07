@@ -6,6 +6,7 @@ title: Preachin' the Devil
   + Preachin the Blues - Bessie Smith
   + Who Do You Love? - Bo Diddley
   + Sympathy for the Devil - Rolling Stones
+  + War Machine - Black Rebel Motorcycle Club
 
   > Preacher have you told them  
   > That hell is real

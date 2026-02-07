@@ -2,6 +2,10 @@
 layout: page
 ---
 
+- *Graveyard Blues* - Roscoe Holcomb
+- *If I Should Fall from Grace with God* - The Pogues
+- *Alcohol and Jake Blues* - Tommy Johnson
+
 Manuscript annotations identify the black dog in the song as *Lazarus*
 
 ### Lazarus

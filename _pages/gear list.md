@@ -79,61 +79,60 @@ DSP checklist
 - Multiband Compression
 
 
-Drumset Inventory
------------------
+### Drumset Inventory
 
-tom bag
-snare bag
-drum tuner
-brushes
-tom heads
-= 225.86
+    tom bag
+    snare bag
+    drum tuner
+    brushes
+    tom heads
+    = 225.86
 
-kick pedal bag
-= 43.11
+    kick pedal bag
+    = 43.11
 
-kick pedal
-= 75.44
+    kick pedal
+    = 75.44
 
-snare drum
-= 419.34
+    snare drum
+    = 419.34
 
-cymbal
-= 441.99
+    cymbal
+    = 441.99
 
-snare stand
-drum throne
-= 114.25
+    snare stand
+    drum throne
+    = 114.25
 
-hardware bag
-= 48.50
+    hardware bag
+    = 48.50
 
-mallets
-cymbal stands
-= 175.69
+    mallets
+    cymbal stands
+    = 175.69
 
-hi hats
-hi hat stand
-= 659.94
+    hi hats
+    hi hat stand
+    = 659.94
 
-bass drum
-= 537.92
+    bass drum
+    = 537.92
 
-bass drum heads
-= 91.62
+    bass drum heads
+    = 91.62
 
-floor tom
-= 226.37
+    floor tom
+    = 226.37
 
-TOTAL
-= 3,060.03
+    TOTAL
+    = 3,060.03
 
-bass drum bag
+    bass drum bag
 
-rack tom mount
-tom head
+    rack tom mount
+    tom head
 
-rack tom
+    rack tom
 
 
 

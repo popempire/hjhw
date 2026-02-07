@@ -30,3 +30,10 @@ Stuff on long-term loan
  - Yamaha MG102c mixer (Jake)
  - PreSonus Faderport classic (David Kelsey)
  - Electro-Harmonix Bass Micro Synth (David Kelsey)
+
+ ### 2/3/26
+
+ Jake returned:
+
+ - Whirlwind pcDI
+ - Yamaha MG102c mixer

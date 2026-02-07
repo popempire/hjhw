@@ -3,6 +3,9 @@ layout: page
 title: Tom Dula
 ---
 
+- *Tom Dooley* - The Kingston Trio, cf. Doc Watson
+- *Little Margaret* - Karen Dalton
+
 Roud 4192
 
 This is drawn from a traditional text which is better known as "Tom Dooley",
@@ -122,7 +125,7 @@ guilty verdict, and Tom was sentenced to be hanged.
 The high profile of these two men, along with the lurid details of the case,
 are likely the reason that the story was covered by media far outside isolated
 Appalachian community of Wilkes County, North Carolina, by papers such as the
-*New York Times*. No doubt, fresh off the Civil War and Lincoln's assassination,
+*New York Herald*. No doubt, fresh off the Civil War and Lincoln's assassination,
 Yankee readers were quite receptive to stories illustrating the depravity of
 former Confederate hillbillies.
 
@@ -153,12 +156,12 @@ was too passive to put a stop to it.
 In an instance of local pride triumphing over good taste,
 the people of Wilkes County, North Carolina, in 2001 ceremonially acquitted
 Tom Dula of charges for which he had been hanged 133 years prior.
-The sentiment runs deep in the culture of the communities that settled the 
-American backcountry that if a person becomes famous enough they can act with
-impunity. Tom Dula could never have been expected to be that kind of famous when
+
+If a person becomes famous enough they can act with impunity. 
+Tom Dula could never have been expected to be that kind of famous when
 he was born. He was merely infamous when he died. Yet by happenstance related 
 directly to the power of song, his name eventually became one of the most famous
-in the American tradition.
+in the American tradition. 
 
 Several thousand murders occur in the United States every year, and probably
 many millions of tales of heartbreak. A certain proportion of these are even
@@ -171,3 +174,65 @@ remarkable process of mineralization. These rare fossilized remains can become
 very famous after a very, very long time. For us today, they become the exemplary
 specimens of a certain way of life. They may not have been seen that way at all
 in their own time.
+
+---
+
+Doc Watson's version preserves significantly more of the narrative detail of the
+ballad. He also introduces two couplets which have no documented prior occurrence,
+which may well be his own:
+
+  >     Trouble, oh, it's trouble
+  >     A-rolling through my breast
+  >     As long as I'm a-living, boys
+  >     They ain't a-gonna let me rest
+
+These lines are understood to be read in the voice of the condemned Tom Dula.
+The singer leaves us free to make up our own minds about whether this expression
+is sincere, or the whining of an selfish person who is afraid to die.
+But is it at least an invitation to feel sympathy for a man who is believed by
+his peers to have committed a violent and contemptible murder.
+
+Doc follows this with a verse that is attested in prior versions, and which is
+purported to derive from Tom's final address to the crowd, where he denied 
+having committed the murder.
+
+  >     I know they're gonna hang me
+  >     Tomorrow I'll be dead
+  >     Though I never even harmed a hair
+  >     On poor little Laurie's head
+
+Whether Tom denied his guilt from the gallows, as this oral tradition claims,
+is uncertain. He did produce a written confession shortly before his death
+where he took sole responsibility for the murder. This became the primary evidence 
+exonerating Tom's accused accomplices, Anne Foster Melton and Pauline Foster.
+A rumor began to develop among some tellers of the story that Tom's confession
+may have been a lie, a final tragic romantic gesture to save the life of his
+true beloved who had in fact committed the murder.
+
+In contrast, this ballad, in seemingly all of its versions, does not contain 
+lines spoken in the voice of the victim. Tom's voice alternates with just one 
+other: a narrator-accuser who adresses Tom directly. This voice speaks in a
+fairly matter-of-fact tone and exhibits less personal character than Tom.
+It seems to represent a somewhat generalized voice of the community, the crowd
+that has gathered to witness the execution. (It was estimated by
+*The New York Herald*, reporting at the time,
+that several thousand people were there.
+Among these were former Confederate soldiers who fought alongside Tom — 
+to a man they believed him to be guilty.
+It was also reported that an unusually high proportion of women were in the crowd,
+though the general sentiment among them is not recorded.)
+
+
+**Narrative and song are, in a certain sense, fundamentally at odds with each other.**
+
+
+---
+
+  > Direct discourse of the persons involved in the action is the native mode
+  > of ballad story-telling, and is the most telling cause of the vivid 
+  > immediacy of the best of the kind.
+  >
+  > — Bertrand Bronson, *The Singing Tradition of Child's Popular Ballads*, p. xxvii
+
+"Vivid immediacy" describes perfectly the characteristic quality of the most
+impactful lines of *Tom Dooley*.

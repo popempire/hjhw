@@ -3,6 +3,9 @@ layout: page
 title: God's Grandeur
 ---
 
+- *Sitting On Top of the World* - The Mississippi Sheiks (cf. Doc Watson, et al.)
+- *Some Summer Day* - Charley Patton
+
 A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910s
 
 ---

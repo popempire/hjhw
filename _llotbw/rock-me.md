@@ -5,9 +5,12 @@ title: Rock Me (Hide Me in Thy Bosom)
 
 Composed by Rev. Thomas Dorsey (1937?)
 
-Recorded by Sister Rosetta Tharpe during her first session (1938)
+Recorded by Sister Rosetta Tharpe during her first session (1938),
+and again with Lucky Millinder Orchestra (???)
 
 Recorded by Blind Willie McTell (1949, and another?)
+
+Recorded by Anne Graham with Lead Belly
 
 My lyrics are slightly modified (as are those of every recorded version!)
 
@@ -55,6 +58,9 @@ My lyrics are slightly modified (as are those of every recorded version!)
 
 ---
 
+It's incredible that the name of Sister Rosetta Tharpe does not always come up
+in discussions of the origins of rock and roll.
+
 The indebtedness of rock & roll to black gospel music cannot be overstated.
 This music was originally referred to as *spirituals*. 
 In the early 20th century, the developing recorded music industry tended to
@@ -91,3 +97,23 @@ amplification).
 
 The popularization of the term "rock & roll" is widely attributed to Cleveland radio DJ
 Alan Freed. 
+Yet "rock & roll" had been in the parlance of black Americans for decades prior
+to this. The phrase and its variants were used in a variety of ways, including
+to describe a musical style — not merely, as some have suggested, as a euphemism
+for sexual intercourse. Naturally, any creative mind could not fail to imagine a
+use for such a facile phrase as a euphemism for love-making. However, the earliest
+examples of the phrase "rock and roll" or "rocking" and "rolling" in a musical
+context are as often found in spiritual songs as in secular ones. These usages
+seem to derive at least in part from popular religious dances of black Americans
+in the 19th century such as the *Rock Daniel*.
+
+Church and the bar, whether barrelhouse, juke joint, or honky tonk, were never
+that far apart, despite all their supposed antipathy. They are both places built
+for psychic intoxication where music, including communal singing, is given
+prominence, and where people very often go looking for a mate. 
+Almost all of my secular humanist friends and acquaintances identify bars and
+musical concerts (where invariably alcohol is sold) as their "church". If the
+loudest Christians insist that these venues are sanctified only to the Devil,
+that is why many secular humanists are content to acknowledge Satan as their
+favorite deity.
+

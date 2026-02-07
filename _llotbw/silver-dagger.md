@@ -3,10 +3,10 @@ layout: page
 title: Dying Silver Dagger Blues
 ---
 
-Joan Baez - Silver Dagger
-Blind Willie McTell - Dyin' Crapshooter's Blues
-Jimmie Rodgers - Frankie and Johnny
-Jean Ritchie - One I Love
+- Joan Baez - Silver Dagger
+- Blind Willie McTell - Dyin' Crapshooter's Blues
+- Jimmie Rodgers - Frankie and Johnny
+- Jean Ritchie - One I Love
 
 ---
 

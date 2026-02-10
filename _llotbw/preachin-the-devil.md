@@ -51,3 +51,92 @@ just as *Inferno* was just the first part in Dante's Divine Comedy Trilogy.
 Yet why have these descriptions of the darkest parts of our imagination
 turned out to be so much more interesting than the supposed climaxes of the 
 story?
+
+---
+
+The album cover for the Louvin Brothers' *Satan Is Real* is perhaps more famous
+today than the music, thanks to our culture's infatuation with consuming an endless
+stream of images with very little context. Most reasonable people would agree
+that the cover artwork is hilariously funny, and it's been shared millions of 
+times on the internet as one of the funniest album covers of all time. 
+This humorous impact was not at all intended by the artists, and unfortunately, 
+this association may at times obscure the fact that the 1959 album is a true 
+landmark of country gospel music. Even more unfortunately, at least as Ira Louvin
+would probably see it, this comedic interpretation may obscure the sincere
+profundity of the message in the music.
+
+The Byrds were right to pay homage to the Louvin Brothers by performing some of
+their best songs, such as "The Christian Life". Their version released on
+*Sweetheart of the Rodeo* in 1968 pales in comparison
+to the original, however, not least because one never suspects that there is a
+great deal of sincerity in the singing of the line "I like the Christian life"
+nor any deep understanding of the loneliness that comes with remaining steadfast
+to a truth you know when it feels like the whole world would mock you for it.
+(Roger McGuinn, who sang lead on the Byrds' recording, would later avow a Christian
+faith, but not until about a decade after *Sweetheart of the Rodeo* — influenced
+in part by his reflections on the death of Elvis in 1977, who was just seven
+years older than him and "using all the same drugs".)
+
+The duo are featured in a rock quarry posing before a 12-foot plywood devil and 
+actual fires fueled by kerosene-soaked tires.
+The brothers went to great lengths and took significant physical risks to capture 
+the image. During the shoot, the heat caused rocks to explode, nearly injuring them.
+A sudden rain shower made the scene even more treacherous, while fortuitously
+causing steam to rise from the flames as if to portray the noxious smoke of hellfire.
+
+However imposing the hand-built wooden devil may have seemed in person at the time,
+it looks like a cartoon image to modern eyes. The brothers are pictured gesturing
+dramatically in clean white matching suits, presenting an image that hardly reads
+as sincerity in today's visual parlance. For them, the artistic direction of the
+photo shoot was unencumbered by any need to convey a star persona; they merely
+presented themselves quite sincerely as professional entertainers of the day.
+Who happen to be performing in front of the fires of Hell and in the presence
+of Old Scratch himself.
+
+---
+
+Privileged men in their ivory towers may debate proofs for or against 
+"the existence of God", but most of these are ineffectual (on both sides) because
+they fail to touch the heart of the matter.
+If you don't believe in God then the argument that, by definition, God must exist
+(the ontological argument in a nutshell) does nothing to convince you.
+Conversely, if you belive in God, then the argument that God is impossible
+(the omnipotence paradox, e.g.) does nothing to dissuade you.
+
+From a less esoteric point of view — from the perspective of folk religion, i.e.
+the spiritual practice of the people, the two most glaring issues with the 
+Christian message are inheritances from its ancient Jewish and Greco-Roman 
+origins: they are the problem of evil and the lack of feminine perspective[^1].
+Consequently, there have always been strong urges in popular Christianity to
+promote both the Devil and Mary to positions of greater importance than the 
+foundational sacred texts can strictly support.
+
+To a strict monotheist, the Devil is not a counterpart to God, he is only a
+created being, infinitely less powerful than the Almighty. For Protestant Christians,
+who predominate in the United States, veneration of Mary is tantamount to idolatry.
+Furthermore, neither of these characters figure as significantly in the Bible itself
+as one might suspect if you're more familiar with popular depictions than with
+the text itself.
+Yet for many people, without elevating one or both of these characters to a place
+of power just below that of Jesus,
+the Christian message just fails to connect on a spiritual level.
+
+[^1]: If this claim touches a nerve with conservative evangelicals, perhaps
+that is because the nail is hit on the head.
+
+---
+
+In the story of the Garden of Eden, in the book of *Genesis*, Adam and Eve,
+the first humans, are tempted into sin and ruination by a serpent. Maybe this
+serpent was the Devil, maybe it wasn't — the text just calls him "the serpent". 
+He's a talking serpent, which is suspicious, and he's considered the most 
+cunning of all the creatures, but not explicity identified as the Devil. 
+While the serpent does seem to provide the initial impetus for sinning, i.e.
+eating fruit from a forbidden tree, the level of punishment doled out by God
+seems to indicate that the serpent is judged merely to be an accomplice in the 
+crime, not the mastermind. He has his legs taken away forever, which is pretty 
+severe, but not more severe than the punishment for the humans, who are expelled
+from the garden and condemned to work, suffer in childbirth, and die. One gets
+the sense that God found the whole lot of them culpable, but is particularly 
+disappointed in the humans, who ought to have known better.
+

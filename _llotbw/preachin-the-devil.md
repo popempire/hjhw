@@ -122,7 +122,7 @@ of power just below that of Jesus,
 the Christian message just fails to connect on a spiritual level.
 
 [^1]: If this claim touches a nerve with conservative evangelicals, perhaps
-that is because the nail is hit on the head.
+      that is because the nail is hit on the head.
 
 ---
 

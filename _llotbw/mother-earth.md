@@ -71,3 +71,29 @@ new arrangement by Pop Empire
 
 Is it possible to know how to orient ourselves towards death? 
 
+---
+
+Nothing sounds quite like Memphis Slim's 1951 recording of *Mother Earth* with
+his band, The House Rockers. It is not the structure of the song that is 
+unusual. Formally, it is a straightforward twelve-bar blues, with a refrain
+over the second and third phrases, and verses delivered over the first four-bar
+phrase in Memphis Slim's characteristic talk-singing. The descending chromatic
+riff that punctuates the refrain phrases is unforgettable, but what truly sets
+this recording apart is the sparse and somber arrangement. Drums are almost
+entirely absent, horns introduce the refrain theme and then fall silent for the
+remainder of the song, while the vocal harmonies imbue the track with a solemn
+spiritual intensity, with Slim's airy piano floating above.
+
+Memphis Slim re-recorded *Mother Earth* in 1970 in conjunction with *The Blue Memphis Suite*,
+a semi-autobiographical blues concept album. The arrangement is much larger
+on that recording, much more conventional. The large band sounds fantastic,
+the later recording sounds far more polished. It also feature prominent drums,
+and its intensity is fueled by an abundance of sound: a large band filling a
+large concert hall. In my opinion, this rendition of the song is far less compelling
+than the earlier one. Perhaps the extra polish simply doesn't suit the earthiness
+of the message.
+
+---
+
+Your death is the one thing that is truly your own.
+

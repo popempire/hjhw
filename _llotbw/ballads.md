@@ -97,3 +97,98 @@ until a couple months after the end of the war.
 
 Things take up much as they had been, Melton returned to his cabin and his waiting
 wife Anne, and Tom was her frequent visitor.
+
+
+
+
+Frankie and Johnny
+------------------
+
+### Frankie Baker
+
+In 1899, Francine "Frankie" Baker was successful twenty-two year old African-American
+boardinghouse owner and prostitue in St. Louis, MO. She met Allen "Al" Britt, 
+a seventeen year old piano player and a hip cat, at the Orange Blossom Ball. 
+He soon became her live-in boyfriend. 
+Meanwhile, he was having an affair with another prostitute named Alice Pryor. 
+One fateful October night,
+Frankie walked down from her boardinghouse to the saloon where Al was performing
+and discovered him with Alice. 
+
+  > Allen Britt's brief experience in the art of love cost him his life.
+  >
+  > — *St. Louis Post-Dispatch*, October 19, 1899
+
+They quarreled loudly, the argument spilling out into the street. Frankie begged
+Al to come home with her, she threatened to turn him out of the house, though
+eventually she returned home alone. Al stayed at the bar for several more hours,
+becoming very drunk before returning to Frankie's boardinghouse around 3 am.
+He found her there awake in bed, and they began to quarrel again. He pulled a
+knife on her, and she pulled out a .38 from under her pillow. 
+(She said that she usually slept with a gun under her pillow.)
+She shot him once in the stomach, and he staggered away. 
+He was able to make it a couple blocks away to his parents' house.
+He died a couple days later, having informed the police that Francine Baker had
+been his murderer.
+She was arrested, tried, and found not guilty, having acted in self-defense.
+
+Bill Dooley...
+Omaha, Portland...
+*She Done Him Wrong*, lawsuit...
+
+### Frankie Silver
+
+*The American Songbag* (1925?) claims that *Frankie and Albert*
+"was common along the Mississippi river and among railroad men of the middle west
+as early as 1888".
+If the true story that inspired the ballad of Frankie and Albert occurred in 1899,
+how is this possible? Is this simply an exaggeration on the part of the editors
+of the *Songbag*? Very possibly, yes.
+Overstating the antiquity of one's sources is an old tradition
+among folk singers and folklorists alike which can be traced back to Adam & Eve.
+
+But as it turns out, there are indeed other earlier references to *Frankie*
+ballads dating back to the 19th century.
+
+
+
+Young Hunting
+-------------
+
+*Young Hunting* is just one of many names given to the protagonist in this family
+of ballads. It is the name used in the earliest of the versions collected as 
+no. 68 in the Child ballads. From very early on, the names of this young man,
+and of the one or two other characters in the story, show considerable variability.
+*Young Riedan* was once a popular variant. *Earl Richard* became a widespread
+name for the ballad in its native Scotland. In the variants that survived among
+Appalachian descendants of the Scots-Irish, he often goes by the name *Love Henry*
+or *Henry Lee*.
+
+This ballad was in circulation sometime prior to the 1770s. It seems to have
+become quite popular in Scotland, and in the 19th century it spread across Britain,
+even to parts of Scandinavia. It also spread to North America. 
+Over time, the ballad essentially disappeared from England and became obscure in
+Scotland, while the Appalachian offshoot *Henry Lee* had a resurgence in popularity
+among the old-time singers in America.
+
+The Appalachian *Love Henry* ballads of this family often retain a good deal of
+antique detail from older ballads of Young Hunting, Earl Richard et al., 
+at least in certain verses. Notably, however, the American versions tend to
+omit a great deal of the narrative found in the first Scottish versions.
+It's almost as if half of Act II and all of Act III had been omitted from the play.
+This truncation gives the ballad a whole new emotional arc.
+
+...
+
+Once the crime has been committed, Lady Maisry finds out that a talking bird
+has witnessed the dirty deeds. She tries both carrots and sticks to ensure the
+bird's silence, and they taunt each other back and forth.
+
+This is where most of the American versions end. The result is that the 
+conversation with the talking bird takes on an increased perceptual signifiance
+in the narrative, which becomes balanced between two conversations — 
+between the murderess and Henry Lee, between the murderess and the bird.
+
+
+
+

@@ -189,3 +189,5 @@ them. For the earliest texts of this ballad carry through to the point where
 the woman receives full punishment for her murder, typically by being burned
 at the stake.
 
+---
+

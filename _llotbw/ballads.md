@@ -54,6 +54,85 @@ is one of the four horsemen of American soft power around the globe.
 
 ---
 
+The American Imperial Popular Style could also be called the Anglophone Popular Style.
+The British established a global empire, arguably the first one, and after the
+Second World War they bequeathed it to the United States — handing over the core
+business of running an empire to the Americans while maintaining the cultural
+cachet of Global Ruling Class. In this capacity, the British have continued to
+be relevant to development of the Imperial Popular Style. 
+
+And while the union of cultural and musical influences that form the primeval
+basis of the American Popular Style has only ever occurred in America, a great
+portion of the influences in that stew came directly from the British immigrants
+who began arriving from the 16th century on. This is certainly true in the 
+American ballad tradition, which has inherited much from every region of Britain.
+
+However, I believe that there are certain tendencies in the American ballad
+tradition that distinguish it from at least the mainstream English and Scottish
+ballad traditions — it is a sibling to these traditions, not simply a continuation.
+In general, American ballads are far more likely to tell the stories of poor,
+disadvantaged members of society than British ballads, which are comparatively
+obsessed with the lives of societal elites. The songs almost always have to do
+with the affairs of lords and ladies, if not kings and queens — if poor folks
+feature in these songs, it is typically because their story somehow intersects
+with that of an elite.
+
+*Young Hunting* (or *Earl Richard*) is a ballad about elites. Lady Maisry is the
+mistress of a castle where the story opens. She has enough social advantage over
+her maid Katherine to compel her to be an accessory to the crime, and nearly
+have her framed for the murder and executed. Hunting is well-connected too:
+just a couple days after the murder (unfortunately for Maisry) the king,
+who had known that Hunting was expected to be passing through Maisry's domain,
+who happens also to be passing through the area with his retinue, calls for Hunting
+by name to come join his party.
+
+When the ballad left Scotland and the British Isles, when it immigrated to
+America and grew into *Love Henry*, it lost many of the details that identified
+the characters as members of the elite class. When Dick Justice sings *Henry Lee*,
+there is not much evidence that either Henry or the unnamed murderess are 
+particularly wealthy. The few lines that might have harkened back to this
+narrative detail seem to be the places where the sense of Justice's lyrics
+is most convoluted.
+
+  > The very best lodging I can afford
+  > Will be far better than thee
+
+  > Come all you ladies of the town
+  > A secret for me keep
+  > With a diamond ring held on my hand
+  > I never will forsake
+
+What is this supposed to mean? If the murderess is trying to buy the silence
+of the women in her community, why is she the one keeping the valuable jewelry?
+This seems to be a confused memory of a time when Lady Maisry forced her
+maidservant to help dispose of the body and made her swear her silence.
+Yet this context cannot be directly reconstructed from the American ballad,
+and one is left with the impression that the murderess might have told the
+other women in her community of her crime because she needed to get it off her chest and
+expected them to be generally sympathetic. That's just one interpretation,
+but emotionally it's a different story than the one told by the earlier versions
+of this ballad.
+
+  > Your cage will be of purest gold
+  > In deed of property (?)
+
+There does not seem to be any universal agreement about what words Dick Justice
+sings in the line after "your cage will be of purest gold". It may simply have
+been a linguistic mistake — the technology did not yet exist for "punching in"
+or making edits to recordings after the fact. What we would expect to hear here
+is a description of something very desirable that the lady can bribe the talking
+bird with. This is a prime opportunity for this murderer to flout her wealth
+or influence, but her offer here is not particularly extravagant. A golden
+cage is pretty fancy, but it's not quite a sign of preponderous wealth.
+
+This suggests that the idea of this being a story about two aristocrats was no
+longer part of the narrative imagination of American balladeers like Dick Justice —
+yet still these half-remembered phrases persisted for a while in their singing.
+
+
+
+---
+
 Tom Dula
 --------
 

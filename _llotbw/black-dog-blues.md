@@ -5,6 +5,22 @@ layout: page
 - *Graveyard Blues* - Roscoe Holcomb
 - *If I Should Fall from Grace with God* - The Pogues
 - *Alcohol and Jake Blues* - Tommy Johnson
+- *Traveler (Amy's Song)* - anj (The Year of the Raccoon)
+
+<https://theyearoftheraccoon.bandcamp.com/album/the-year-of-the-raccoon>
+
+  >   How many miles have you come?
+  >   How many more to go?
+  >   What's your hurry?
+  >   All roads lead to home
+  >
+  >   And someday our souls will be free
+  >   Like smoke spirals up through the trees
+  >   And the wind and the rain will find what remains
+  >   And take it all back to the Earth
+  >   And take it all back to the Earth
+  >   We're all going back to the Earth
+
 
 Manuscript annotations identify the black dog in the song as *Lazarus*
 
@@ -18,6 +34,8 @@ Manuscript annotations identify the black dog in the song as *Lazarus*
   + Lazarus is the black dog in the song
 
 ---
+
+
 
 <https://youtu.be/VDwf8aWNbBA>
 

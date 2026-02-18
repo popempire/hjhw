@@ -178,7 +178,9 @@ comeuppance in the final judgment. There is a sort of chivalrous romanticism
 to this version which must have appealed to later British as well as American
 singers. Yet these versions have merely truncated a great deal of the action 
 in earlier versions of the ballad. The taunting of the bird is no finale but
-just setting the stage for the second act of this play. In fact, if the talking
+just setting the stage for the second act of this play.
+
+In fact, if the talking
 bird has any real significance in the early versions of the story, it is not in
 its interactions with the woman, but in its tipping off the authorities on 
 where and how to look for the body. Notably, the bird is actually left out of 
@@ -190,4 +192,45 @@ the woman receives full punishment for her murder, typically by being burned
 at the stake.
 
 ---
+
+### 2.18
+
+This ballad is one of a family of ballads traditionally listed under the heading
+of *Young Hunting*. Most of the time, however, the song has gone by some other
+title, of which there are abundant variations. The song was born in Scotland,
+and is documented back as far as the 1770s. 
+It may well have existed for some time prior to that. *Earl Richard* was among
+the most popular names for the tragic ballad in its native country as it 
+spread into the rest of Britain. The strains that survived among
+the Scots-Irish immigrants who settled in the Appalachian mountains have most
+commonly gone by the names *Love Henry* or *Henry Lee* 
+(as on Dick Justice's seminal recording).
+
+The antiquity of the this ballad may account for the presence of occasional
+obscurities or linguistic archaicisms in many versions, even recent ones.
+It has also given the narrative a relatively long period of time, multiple
+human generations, to evolve. *Young Hunting* and its family achieved considerable
+popularity in Britain in the 19th century, but then seemed to virtually
+vanish from the island.
+
+Interestingly, the song remained popular within Appalachia while mutating into
+a new species.
+There are two differences in this American version of the ballad that seem to me
+to be the most significant and interesting:
+First, in the early Scottish versions, it is clear that the major
+characters in the story are members of the nobility, societal elites;
+while in the American versions, the characters seem rather to be common townsfolk,
+or to be of no certain social class.
+Second, more than half of the narrative has been truncated.
+
+The narrative realm in which the old Scottish
+versions of this song take place is full of magic and superstitions
+confirmed as fact. A talking bird is the single supernatural element that is 
+consistently preserved in the later American versions, but this is enough
+to give the narrative setting a glimmer of the fairy realm. 
+No doubt, many generations of singers have taken pleasure in giving voice to
+the cheeky little magical bird. In conjunction with with certain archaicisms
+and obscurities in the language of the song in versions such as on Dick Justice's
+recording, this setting gives the tune a sort of faded sepiatone appearance,
+an air of nostalgia, which was intentional even a hundred years ago.
 

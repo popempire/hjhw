@@ -2,40 +2,30 @@
 layout: page
 ---
 
+#### Lyrical Influences
 - *Graveyard Blues* - Roscoe Holcomb
+- *Clay From the River* - anj
+
+#### Musical Influences
 - *If I Should Fall from Grace with God* - The Pogues
 - *Alcohol and Jake Blues* - Tommy Johnson
-- *Traveler (Amy's Song)* - anj (The Year of the Raccoon)
-
-<https://theyearoftheraccoon.bandcamp.com/album/the-year-of-the-raccoon>
-
-  >   How many miles have you come?
-  >   How many more to go?
-  >   What's your hurry?
-  >   All roads lead to home
-  >
-  >   And someday our souls will be free
-  >   Like smoke spirals up through the trees
-  >   And the wind and the rain will find what remains
-  >   And take it all back to the Earth
-  >   And take it all back to the Earth
-  >   We're all going back to the Earth
-
 
 Manuscript annotations identify the black dog in the song as *Lazarus*
 
-### Lazarus
+#### Lazarus
 
   + In the greater Cincinnati area of the United States, the European Common 
-  Wall Lizard is known as the Lazarus Lizard
+    Wall Lizard is known as the Lazarus Lizard
   + *Po' Lazarus* is a a family of early blues work song
   + In the Gospels, Lazarus is a man brought back from the dead by Jesus,
-  foreshadowing the Resurrection of Christ in the narrative
+    foreshadowing the Resurrection of Christ in the narrative
   + Lazarus is the black dog in the song
+  + "Lazarus" is a name that comes to us through the Hellenization of the Hebrew
+    name "Eleazar". It has been in use among Jewish commnunities for millennia.
 
 ---
 
-
+## Graveyard Blues
 
 <https://youtu.be/VDwf8aWNbBA>
 
@@ -86,5 +76,46 @@ another for their inmost thriving.
 
 ---
 
-"Lazarus" is a name that comes to us through the Hellenization of the Hebrew
-name "Eleazar". It has been in use among Jewish commnunities for millennia.
+## Clay From the River
+
+<https://theyearoftheraccoon.bandcamp.com/album/the-year-of-the-raccoon>
+
+      A song for a stone
+      That's what you get when you're wandering alone
+      For love will ebb and flow
+      But the rocks they know, they know
+
+      And we drank the water out from the river
+      It wasn't too white, we felt alright
+      And we found a feather in a tangle of fur
+      Freshly spilled blood, tracks in the mud
+
+      A poem for a tree
+      That's what you write when your mind runs free
+      And the North Wind never sleeps
+      But the cottonwood's roots run deep
+
+      And we watched the sunset paint everything strange
+      Purple and green, alien scene
+      And we let the fire take over our world
+      Embers trailed high, stars dripped from the sky
+
+      A prayer for the earth
+      That's what you write when you sleep with the dirt
+      And the grass will make your bed
+      And the ground will hold tour head
+
+      And we heard the coyotes sing without words
+      Soul-chilling cries, tears in my eyes
+      And we drifted into the silence of sleep
+      Sun's warmth now lost, all covered in frost
+
+      Oh it takes time and clay from the river
+      To ease my troubled mind
+      Yeah it's gonna take time and clay from the river
+      To ease my troubled mind
+  
+— anj, *Clay From the River* (*The Year Of the Raccoon*, 2017)
+
+---
+

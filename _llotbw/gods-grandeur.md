@@ -28,6 +28,18 @@ A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910
 
 ---
 
+### God's Grandeur
+is a sonnet by Gerard Manley Hopkins set to music derived from the blues standard
+*Sittin' On Top of the World*
+  - nature is suffused with the divine
+  - the state of sin is estrangement from nature
+  - masculine/feminine aspects of the divine
+  - hopkins on prosody
+    - sprung rhythm
+    - setting the text to music
+
+---
+
 The descriptions of God's grandeur as "shining from shook foil" and "the ooze of
 oil crushed" are vivid and unusual. They suggest a sense of awe towards the 
 natural world and the splendid complexity of life and the cosmos, even as it is
@@ -148,4 +160,16 @@ People don't need to be (can't be?) taught it, because it is an instinct.
 At the same time, it is one among many other instincts, some which may override it.
 The habit of reinforcing this instinct is called *wisdom*, and that is why
 the fear of god is called the beginning or root of wisdom.
+
+---
+
+### God's Grandeur
+is a sonnet by Gerard Manley Hopkins set to music derived from the blues standard
+*Sittin' On Top of the World*
+  - nature is suffused with the divine
+  - the state of sin is estrangement from nature
+  - masculine/feminine aspects of the divine
+  - hopkins on prosody
+    - sprung rhythm
+    - setting the text to music
 

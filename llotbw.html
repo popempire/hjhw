@@ -20,8 +20,6 @@ permalink: llotbw/
   {% endfor %}
 </ul>
 
-<!--p><a href="{% link _posts/2025-01-08-preface.md %}">250108 preface</a></p-->
-
 <h2>tagged posts</h2>
 
 {% assign posts_with_tag = site.posts | where_exp: "item", "item.tags contains 'llotbw'" %}

@@ -6,10 +6,14 @@ Young Henry
 - *Henry Lee* - Dick Justice  
 - *Young Hunting* - Trad. cp. Nancy Kerr
 
+*Roud 47*
+
 This song has also been known as "Henry Lee" (as by Dick Justice)
 and earlier as "Young Hunting" (Child No. 68).
 
 Bronson pp. 174-178
+
+Bronson alludes to a relationship between this ballad and *Lady Isabel* (Child No. 4).
 
 The tune used in this version is a new invention which came to me
 on my drive back from Albuquerque NM to Cincinnati OH (January 2019, I think)
@@ -19,36 +23,14 @@ I tried the tunes used on this album for "Tom Dula" and "Young Henry" swapped.
 
 ---
 
-*Roud 47*
-
-This song has also been known as “Henry Lee” (as by Dick Justice) 
-and earlier as “Young Hunting” (Child No. 68).
-
-Bronson pp. 174-178
-
-  > The tune used in this version is a new invention which came to me on my drive back from Albuquerque NM to Cincinnati OH (January 2019, I think) although it was not until some while later that I connected it to the text.
-  > 
-  > I tried the tunes used on this album for “Tom Dula” and “Young Henry” swapped.
-
----
-
-Bronson alludes to a relationship between this ballad and *Lady Isabel* (Child No. 4).
-
-<https://www.lizlyle.lofgrens.org/RmOlSngs/RTOS-HenryLee.html>
-
-<https://oldweirdamerica.wordpress.com/2008/11/20/1-henry-lee-by-dick-justice/>
-
-<https://mudcat.org/thread.cfm?threadid=63598>
-
-<https://sacred-texts.com/neu/eng/child/ch068.htm>
-
-<https://mainlynorfolk.info/tony.rose/songs/younghunting.html>
-
-<https://www.springthyme.co.uk/ah07/ah07_16.htm>
-
-<https://singout.org/young-hunting-henry-lee-love-henry/>
-
-<https://name.umdl.umich.edu/abf2062.0003.001>
+- <https://www.lizlyle.lofgrens.org/RmOlSngs/RTOS-HenryLee.html>
+- <https://oldweirdamerica.wordpress.com/2008/11/20/1-henry-lee-by-dick-justice/>
+- <https://mudcat.org/thread.cfm?threadid=63598>
+- <https://sacred-texts.com/neu/eng/child/ch068.htm>
+- <https://mainlynorfolk.info/tony.rose/songs/younghunting.html>
+- <https://www.springthyme.co.uk/ah07/ah07_16.htm>
+- <https://singout.org/young-hunting-henry-lee-love-henry/>
+- <https://name.umdl.umich.edu/abf2062.0003.001>
 
 ---
 
@@ -233,4 +215,62 @@ the cheeky little magical bird. In conjunction with with certain archaicisms
 and obscurities in the language of the song in versions such as on Dick Justice's
 recording, this setting gives the tune a sort of faded sepiatone appearance,
 an air of nostalgia, which was intentional even a hundred years ago.
+
+---
+
+### Young Henry
+is derived from the ballad *Henry Lee* or *Love Henry*, an Appalachian descendant
+of the Scottish ballad *Young Hunting*
+
+#### Henry Lee
+Dick Justice recorded a splendid version of this ballad under the title "Henry Lee"
+in 1927. It was a popular old-time song throughout Appalachia, often known as
+"Love Henry" or "Lovin' Henry", handed down through webs of family singing traditions.
+
+In Dick Justice's version, as generally in the Appalachian variants,
+the emotional meat of the narrative is anchored by two dialogues:
+one between Henry and the murderous woman he has spurned, and one between the
+woman and a talking bird. The parallels between these two dialogues are drawn out
+in, reflecting a kind of narrative symmetry, a poetic sense of justice.
+
+The woman attempts to capture the heart of the man she loves. He insults her,
+even while he seems prepared to enjoy the benefits of her affection.
+He is immediately punished for his sexual arrogance. The fury of a scorned woman,
+famously, is so severe that they don't even have it in Hell.
+
+After she disposes of the body with the help of the women of her local community,
+the talking bird makes its entrance. This is a fascinating supernatural element
+to the story which adds a great deal of interest to the story, and must be 
+considered a crucial part of why the song remained popular over so many generations.
+
+The woman attempts to capture the bird in a way directly parallel to how she
+tried to seduce Henry. The bird, however, is cheeky and much wiser than Henry.
+He rejects her offers, and when she responds with threats of violence, 
+revealing her true nature, the bird retorts with a threat of his own — to reveal
+her secret guilt.
+
+So the lad Henry is punished for his unkindness and unfaithful heart by
+being murdered. However, the gods of tragedy consider this to be a bit of an
+over-reaction on the part of the woman, so she must be punished — 
+by carrying a guilty conscience and estrangement from Nature. The story thus
+achieves a satisfying, balanced conclusion.
+
+#### Young Hunting
+This ballad is in fact a descendant of an old family of ballads, known to scholars
+of folk music as No. 47 in the *Roud Folk Song Index* and No. 68 of *Child Ballads*.
+
+
+
+- Young Hunting
+  - Roud 47, Child 68
+  - Nancy Kerr & James Fagan
+  - the rest of the story
+    - disposal of the body
+    - king's party & investigation
+    - return of the talking bird
+    - retrieval of the body & execution
+  - what has been removed?
+    - superstition-based evidence
+    - depiction of a woman being burned at the stake
+    - obvious class differences
 

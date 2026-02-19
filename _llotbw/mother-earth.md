@@ -89,11 +89,32 @@ a semi-autobiographical blues concept album. The arrangement is much larger
 on that recording, much more conventional. The large band sounds fantastic,
 the later recording sounds far more polished. It also feature prominent drums,
 and its intensity is fueled by an abundance of sound: a large band filling a
-large concert hall. In my opinion, this rendition of the song is far less compelling
-than the earlier one. Perhaps the extra polish simply doesn't suit the earthiness
-of the message.
+large concert hall. To be honest, part of me feels that the extra polish 
+of this later version simply doesn't suit the earthiness of the message.
+
+Slim sings new verses on the later version, expressing the same sentiments but
+worded differently. He seems to demonstrate that one could substitute in
+a potentially infinite variety of verses to set up the refrain, 
+"I don't care how great you are, I don't care what you're worth..."
+
+Fascination with 
 
 ---
 
 Your death is the one thing that is truly your own.
 
+---
+
+- *Traveler (Amy's Song)* - anj (The Year of the Raccoon)
+
+  >    How many miles have you come?
+  >    How many more to go?
+  >    What's your hurry?
+  >    All roads lead to home
+  >
+  >    And someday our souls will be free
+  >    Like smoke spirals up through the trees
+  >    And the wind and the rain will find what remains
+  >    And take it all back to the Earth
+  >    And take it all back to the Earth
+  >    We're all going back to the Earth

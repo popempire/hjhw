@@ -54,6 +54,25 @@ story?
 
 ---
 
+### Preachin' the Devil
+is inspired by the Louvin Brothers' *Satan Is Real*, seminal recordings in rock
+n roll history by Bessie Smith, Bo Diddley, and the Rolling Stones, and musings
+on the nature of the Devil
+  - Satan Is Real
+    - the album cover
+    - the reality of Satan for Charlie & Ira Louvin
+  - a dark sexual power?
+    - Bessie Smith, Preachin' the Blues
+    - Who Do You Love?
+    - Sympathy for the Devil
+  - musings
+    - god & the devil
+    - son house "if you use the words right"
+    - I-75 "hell is real"
+    - paradise lost
+
+---
+
 The album cover for the Louvin Brothers' *Satan Is Real* is perhaps more famous
 today than the music, thanks to our culture's infatuation with consuming an endless
 stream of images with very little context. Most reasonable people would agree

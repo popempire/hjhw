@@ -77,57 +77,7 @@ with the affairs of lords and ladies, if not kings and queens — if poor folks
 feature in these songs, it is typically because their story somehow intersects
 with that of an elite.
 
-*Young Hunting* (or *Earl Richard*) is a ballad about elites. Lady Maisry is the
-mistress of a castle where the story opens. She has enough social advantage over
-her maid Katherine to compel her to be an accessory to the crime, and nearly
-have her framed for the murder and executed. Hunting is well-connected too:
-just a couple days after the murder (unfortunately for Maisry) the king,
-who had known that Hunting was expected to be passing through Maisry's domain,
-who happens also to be passing through the area with his retinue, calls for Hunting
-by name to come join his party.
-
-When the ballad left Scotland and the British Isles, when it immigrated to
-America and grew into *Love Henry*, it lost many of the details that identified
-the characters as members of the elite class. When Dick Justice sings *Henry Lee*,
-there is not much evidence that either Henry or the unnamed murderess are 
-particularly wealthy. The few lines that might have harkened back to this
-narrative detail seem to be the places where the sense of Justice's lyrics
-is most convoluted.
-
-  > The very best lodging I can afford
-  > Will be far better than thee
-
-  > Come all you ladies of the town
-  > A secret for me keep
-  > With a diamond ring held on my hand
-  > I never will forsake
-
-What is this supposed to mean? If the murderess is trying to buy the silence
-of the women in her community, why is she the one keeping the valuable jewelry?
-This seems to be a confused memory of a time when Lady Maisry forced her
-maidservant to help dispose of the body and made her swear her silence.
-Yet this context cannot be directly reconstructed from the American ballad,
-and one is left with the impression that the murderess might have told the
-other women in her community of her crime because she needed to get it off her chest and
-expected them to be generally sympathetic. That's just one interpretation,
-but emotionally it's a different story than the one told by the earlier versions
-of this ballad.
-
-  > Your cage will be of purest gold
-  > In deed of property (?)
-
-There does not seem to be any universal agreement about what words Dick Justice
-sings in the line after "your cage will be of purest gold". It may simply have
-been a linguistic mistake — the technology did not yet exist for "punching in"
-or making edits to recordings after the fact. What we would expect to hear here
-is a description of something very desirable that the lady can bribe the talking
-bird with. This is a prime opportunity for this murderer to flout her wealth
-or influence, but her offer here is not particularly extravagant. A golden
-cage is pretty fancy, but it's not quite a sign of preponderous wealth.
-
-This suggests that the idea of this being a story about two aristocrats was no
-longer part of the narrative imagination of American balladeers like Dick Justice —
-yet still these half-remembered phrases persisted for a while in their singing.
+---
 
 
 
@@ -138,13 +88,13 @@ Tom Dula
 
 In a place called Happy Valley, in Wilkes County, North Carolina, just shortly
 before the Civil War, there was a boy named Tom Dula. He was the youngest of
-four, with two brothers and a sister.
+three brothers, with a younger sister.
 
-Nearby lived Anne Foster, a year or so older than Tom, one of five children of Lottie Foster. 
+Nearby lived Anne Foster, a bit older than Tom, one of five children of Lottie Foster. 
 No father to these children seems to have been in the picture, 
 and Lottie was reputed to be an alcoholic. When Anne was 15 or 16, she was
-married to a man who was several years older, a farmer and a passive man,
-named Melton.
+married to a man who was several years older, a farmer and cobbler
+named James Melton.
 
 A couple weeks after the wedding, Lottie caught her daughter Anne and the lad Tom
 sleeping together in her cabin. She ran him out the door immediately.
@@ -268,6 +218,58 @@ conversation with the talking bird takes on an increased perceptual signifiance
 in the narrative, which becomes balanced between two conversations — 
 between the murderess and Henry Lee, between the murderess and the bird.
 
+---
 
+#### Class Distinctions in *Young Hunting*
 
+*Young Hunting* (or *Earl Richard*) is a ballad about elites. Lady Maisry is the
+mistress of a castle where the story opens. She has enough social advantage over
+her maid Katherine to compel her to be an accessory to the crime, and nearly
+have her framed for the murder and executed. Hunting is well-connected too:
+just a couple days after the murder (unfortunately for Maisry) the king,
+who had known that Hunting was expected to be passing through Maisry's domain,
+who happens also to be passing through the area with his retinue, calls for Hunting
+by name to come join his party.
 
+When the ballad left Scotland and the British Isles, when it immigrated to
+America and grew into *Love Henry*, it lost many of the details that identified
+the characters as members of the elite class. When Dick Justice sings *Henry Lee*,
+there is not much evidence that either Henry or the unnamed murderess are 
+particularly wealthy. The few lines that might have harkened back to this
+narrative detail seem to be the places where the sense of Justice's lyrics
+is most convoluted.
+
+  > The very best lodging I can afford
+  > Will be far better than thee
+
+  > Come all you ladies of the town
+  > A secret for me keep
+  > With a diamond ring held on my hand
+  > I never will forsake
+
+What is this supposed to mean? If the murderess is trying to buy the silence
+of the women in her community, why is she the one keeping the valuable jewelry?
+This seems to be a confused memory of a time when Lady Maisry forced her
+maidservant to help dispose of the body and made her swear her silence.
+Yet this context cannot be directly reconstructed from the American ballad,
+and one is left with the impression that the murderess might have told the
+other women in her community of her crime because she needed to get it off her chest and
+expected them to be generally sympathetic. That's just one interpretation,
+but emotionally it's a different story than the one told by the earlier versions
+of this ballad.
+
+  > Your cage will be of purest gold
+  > In deed of property (?)
+
+There does not seem to be any universal agreement about what words Dick Justice
+sings in the line after "your cage will be of purest gold". It may simply have
+been a linguistic mistake — the technology did not yet exist for "punching in"
+or making edits to recordings after the fact. What we would expect to hear here
+is a description of something very desirable that the lady can bribe the talking
+bird with. This is a prime opportunity for this murderer to flout her wealth
+or influence, but her offer here is not particularly extravagant. A golden
+cage is pretty fancy, but it's not quite a sign of preponderous wealth.
+
+This suggests that the idea of this being a story about two aristocrats was no
+longer part of the narrative imagination of American balladeers like Dick Justice —
+yet still these half-remembered phrases persisted for a while in their singing.

@@ -79,10 +79,6 @@ with that of an elite.
 
 ---
 
-
-
----
-
 Tom Dula
 --------
 

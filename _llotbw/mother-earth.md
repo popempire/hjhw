@@ -104,17 +104,3 @@ Fascination with
 Your death is the one thing that is truly your own.
 
 ---
-
-- *Traveler (Amy's Song)* - anj (The Year of the Raccoon)
-
-  >    How many miles have you come?
-  >    How many more to go?
-  >    What's your hurry?
-  >    All roads lead to home
-  >
-  >    And someday our souls will be free
-  >    Like smoke spirals up through the trees
-  >    And the wind and the rain will find what remains
-  >    And take it all back to the Earth
-  >    And take it all back to the Earth
-  >    We're all going back to the Earth

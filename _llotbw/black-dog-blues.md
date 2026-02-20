@@ -119,3 +119,27 @@ another for their inmost thriving.
 
 ---
 
+>     How many miles have you come?
+>     How many more to go?
+>     What's your hurry?
+>     All roads lead to home
+>
+>     And someday our souls will be free
+>     Like smoke spirals up through the trees
+>     And the wind and the rain will find what remains
+>     And take it all back to the Earth
+>     And take it all back to the Earth
+>     We're all going back to the Earth
+
+— anj, *Traveler (Amy's Song)* (The Year of the Raccoon)
+
+---
+
+>     My long gone lover's garden
+>     Growing in the sun
+>     Green and golden, damp and holy
+>     Roots reach into the ground underneath us
+>      
+>     All is dust and light
+
+— anj, *Martha*

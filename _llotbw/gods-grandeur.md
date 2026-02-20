@@ -3,8 +3,9 @@ layout: page
 title: God's Grandeur
 ---
 
-- *Sitting On Top of the World* - The Mississippi Sheiks (cf. Doc Watson, et al.)
-- *Some Summer Day* - Charley Patton
+- *Sitting on Top of the World* - The Mississippi Sheiks (1930) (cf. Doc Watson, et al.)
+- *Some Summer Day* - Charley Patton (later in 1930)
+- *Things 'Bout Comin' My Way* - Tampa Red (1931)
 
 A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910s
 
@@ -37,6 +38,13 @@ is a sonnet by Gerard Manley Hopkins set to music derived from the blues standar
   - hopkins on prosody
     - sprung rhythm
     - setting the text to music
+
+Hopkins always wrote with a distinct musicality in his verse.
+What prompted me to include this poem in a collection of folk songs was the
+discovery that it can be sung to something quite like the tune of 
+*Sittin' On Top Of the World* by the Mississippi Sheiks.
+
+
 
 ---
 

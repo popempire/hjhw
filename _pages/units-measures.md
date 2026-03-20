@@ -42,3 +42,11 @@ permalink: units/
 |------|-------------|-------------------|
 |`em`  |em           |&lt;element> font-size|
 |`rem` |root em      |<html> font-size   |
+
+
+### Notable Quantities
+
+ - **mass of the earth** = six sextillion metric tons (6 x 10^24 kg)
+ - **mass of the sun** = 330 thousand earths
+ - **lunar mass** = 1.2% terrestrial mass
+ 

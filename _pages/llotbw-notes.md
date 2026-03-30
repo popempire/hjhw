@@ -44,8 +44,7 @@ Mastered by TJ Lipple
 
 ---
 
-“Rock Me” was written by Rev. Thomas A. Dorsey,
-first recorded by Sister Rosetta Tharpe
+“Rock Me” was written by Rev. Thomas A. Dorsey
 
 “The Living End” was written by Jim Reid & William Reid
 performing as The Jesus and Mary Chain

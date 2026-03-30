@@ -236,3 +236,43 @@ though the general sentiment among them is not recorded.)
 
 "Vivid immediacy" describes perfectly the characteristic quality of the most
 impactful lines of *Tom Dooley*.
+
+--- 
+
+### Liner notes from Doc Watson self-titled album
+
+**Tom Dooley:** The murder of Laura Foster (January, 1866) was committed a few 
+miles from Doc's home. More than sixty years later, Doc, as a young boy, sat by 
+the fireside at home and listened to heated discussions about the case.
+
+Tom Dula was described to Doc as having been a handsome young man in his early 
+twenties at the time of the murder. Local legend tells that both Laura Foster 
+and Annie Melton were in love with Tom, and further that Sherrif Grayson, the 
+man who took him into custody and also drove the horses from beneath him when he 
+was hanged, was jealous of Tom. Some believe that he either committed the murder 
+or helped Ann Melton who is reputed to have murdered Laura Foster out of 
+jealousy. Around Doc's home there was great symapthy for Tom. Local people who 
+remembered the principals in the case described Laura Foster as 
+"very beautiful... with chestnut curls and merry blue eyes... wild as a buck." 
+(Brown, "North Carolina Folklore Vol. II). 
+An old man from Wilkes County, N. C. said: 
+"Ann Melton was the purtiest woman I ever looked in the face of. She'd a-been 
+hung too, but her neck was jist too purty to stretch hemp. She was guilty. I 
+knowed hit... Ef they'd a-been any womern on the jury, she'd a got first degree. 
+Men couldn't look at that womern and keep their heads." (Brown ibid.). 
+Two years after the murder, Ann was tried and acquitted. Tom had been hanged 
+refusing to implicate her in any way.
+
+Doc's great-grandmother, Betsy Triplett Watson, was called to Annie Melton's 
+death bed and said she was told: "If I knew I would never get well again, there 
+is something I would tell you about Tom's hanging." Doc's cousin, Ora Watson, 
+and Rosa Lee both tell that Great-granny Betsy (she is also Rosa Lee's 
+great-grandmother) heard sounds around Annie's bed when she was dying, sounds 
+like those of red hot rocks being dropped in a bucket of cold water. Ann Melton 
+was said to have told Betsy Watson that she could see the flames of Hell at the 
+foot of her bed.
+
+Granny Lottie Watson (married to Betsy's son, Smith Watson) used to sing the 
+ballad in much the same version that Doc sings here. The version popularized by 
+the Kingston Trio was based on the singing of Frank Proffit who lives a few 
+minutes ride down the road from Doc.

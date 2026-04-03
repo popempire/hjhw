@@ -73,6 +73,8 @@ meticulously developed.
  >
  > — Frank Proffitt (recorded his version of *Tom Dooley* in 1939)
 
+ <https://nodepression.org/album-review-kingston-trio-essential/>
+
 The Kingston Trio introduce the song with a spoken monologue, claiming the song
 is about "the eternal triangle", i.e. a love triangle which they state involves
 Tom Dooley, "a beautiful woman" (understood to be Laura Foster), and a Sherriff

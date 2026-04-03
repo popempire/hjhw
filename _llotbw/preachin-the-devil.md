@@ -159,3 +159,172 @@ from the garden and condemned to work, suffer in childbirth, and die. One gets
 the sense that God found the whole lot of them culpable, but is particularly 
 disappointed in the humans, who ought to have known better.
 
+---
+
+<https://carljungdepthpsychologysite.blog/2020/02/27/trinity-4/>
+
+Seen psychologically then, what does Trinitarian thinking express? God, the *summum bonum*, 
+unfolds in and through the Son to become the Holy Ghost as the third
+representing the perichoresis, the round dance, of the One. The Trinity is an harmonic self realization
+of God insofar as it opens the way to God’s Kingdom for individuals in need of
+redemption. This process is round and complete and to that extent corresponds with the
+Platonic idea. But what happens to evil? One comes to the conclusion at which the
+Middle Ages had already arrived: “Omne bonum a deo, omne malum a homine.” If we do
+not recognize the devil, we become the devil. We become that which disturbs God’s
+harmony.
+
+But what happens to the actual human being when all evil comes from him and all good
+from God? On the one hand, we make a hash of Man, and, on the other, we elevate him
+above the gods–for ultimately something that so mars the beautiful works of the Godhead
+must be no small force! Man thereby becomes a second God, a dark, counter-God, who
+spoils the fun of the “good” God. We credit Man with a significance that exceeds even the
+wildest fantasy. Here we get into considerable difficulty.
+
+...
+
+A grain of truth lies in the Gnostic interpretation of the Holy Ghost as Mother insofar as
+the Virgin Mary was the instrument of God’s birth and thereby involved, as a human being,
+in the Trinitarian drama. The figure of the Mother of God can, therefore, count as a symbol
+of mankind’s essential participation in the Trinity.
+
+The psychological justification for
+this assumption is founded on the circumstance that thinking–apredominantly masculine
+activity–originally depended on the self-revelation of the unconscious, which possesses a
+feminine quality in men. This is the origin of the so-called “anima”–the knowledge
+of revelation, which was personified as sapientia Dei or as Sophia–“in gremio matris sedet
+sapientia patris.”
+
+These psychological connections make clearer the interpretation of
+the Holy Ghost as Mother, but they contribute nothing to the understanding of the Holy
+Ghost figure insofar as we do not appreciate why the Mother could be the third when she
+would more likely be the second.
+
+...
+
+Four is the logical prerequisite for every determination of totality. If one wants to
+make such a determination, it must have a fourfold aspect. If, for example, one wants to
+designate the totality of the horizon, one names the four cardinal points. Three is not a
+natural pattern of order, but an artificial one... 
+
+the fourfold aspect represents the minimum for a determination of completeness.
+Ideal completion, naturally, is round, is the circle. But its minimal, natural division is the
+four.
+
+If Plato had used the Christian concept of the Trinity–which was not the case–and
+elevated, therefore, the three above everything else, we would have to object that it could
+not be a determination of totality. A necessary fourth would have been left out. Or had
+Plato believed that a three-sided form represented the good and beautiful and attributed to
+it all positive qualities, he would have deprived it of evil and imperfection. What could have
+become of the latter aspects? In addition to other answers to this question Christianity has
+replied that real evil is a privatio boni. This classic Christian formula, however, robs evil of
+absolute existence and makes it a shadow with only a relative existence dependent on the
+light.
+
+Another Christian statement about evil implies that it has personality as the Devil. The
+Devil is not included in the Trinity but stands outside and, because of the concept of the
+privatio boni, leads a mere shadow existence. In light of the powerful impact of evil,
+though, this sounds suspiciously like a euphemism. As an autonomous and eternal
+figure, the Devil corresponds more nearly to his role as Christ’s adversary and to the
+psychological reality of evil.
+
+The Church fathers most vehemently opposed the notion of a quaternity of divine
+principles while making the attempt to assign three persons to the nature of God. This
+resistance against the quaternity is extraordinary given that the central Christian symbol,
+the cross, is unmistakably a quaternity. It represents, however, God’s suffering in the direct
+collision with the world.
+
+... Without a doubt, the Devil is an awkward figure: somehow or
+other he stands awry in the Christian world order.
+For this reason, one readily plays down
+his importance with euphemistic detraction or even by shutting one’s eyes to his existence...
+
+Had the power of evil been as minimal as
+certain theological opinions would have it appear, the world would not have needed the
+Godhead itself to come to earth. Or it would have lain within human powers to make
+the world good, which is also a childish, modern belief.
+
+Whatever the Devil’s metaphysical position might be, in psychological reality evil
+presents an effective, yes, even a threatening, limitation to the good. It is not going too far
+for one to assume that not only day and night hold the world in equilibrium, but also good
+and evil. This is the reason why the victory of the good is always a special act of grace.
+
+...
+
+The quaternity schema recognizes this presence as an undeniable
+factor by laying the bonds of this world’s reality on Trinitarian thinking. Platonic, intellectual
+freedom makes possible no determination of totality, but tears the light part of the divine
+portrait loose from the dark half. This freedom was, in large part, a cultural phenomenon
+and the nobler occupation of those fortunate Athenians to whose lot it fell not to be Helots.
+
+Only he can elevate himself above nature who has another to carry earth’s heaviness for
+him. How would Plato have philosophized had he been his own house slave? What would
+Rabbi Jesus have taught, if he had had a wife and children to support? If he had had to
+till the fields in which the bread he broke grew, had had to weed the vineyard in which the
+wine he dispensed ripened?
+
+The dark heaviness of earth belongs to the image of totality.
+In this world, nothing good lacks an evil, no day a night, no summer a winter. But civilized
+Man may lack a winter, for he can protect himself against the cold. He may lack the dirt, for
+he can bathe himself–the sin, for he can prudently separate himself from other people and
+thereby avoid many an occasion for evil.
+
+He can believe himself to be good and pure
+because necessity does not instruct him any differently. By contrast, natural Man has
+a completeness that one can admire but there is actually nothing there worth admiring: it is
+unending unconsciousness, mire and muck.
+
+If, however, God wants to be born as a human being and to unite humanity in the
+community of the Holy Ghost, he will suffer the terrible torment of having to bear the world
+in its reality. It is a cross; yes, he himself is the cross. The world is God’s suffering and
+each individual human being who also wishes to even approximate his own totality knows
+very well that that means carrying a cross. But the eternal promise of bearing a cross is the
+Paraclete.
+
+---
+
+  > Seen psychologically then, what does Trinitarian thinking express? God, the summum bonum, unfolds in and through the Son to become the Holy Ghost as the third representing the perichoresis, the round dance, of the One. The Trinity is an harmonic self realization of God insofar as it opens the way to God’s Kingdom for individuals in need of redemption. This process is round and complete and to that extent corresponds with the Platonic idea. But what happens to evil? One comes to the conclusion at which the Middle Ages had already arrived: “Omne bonum a deo, omne malum a homine.” If we do not recognize the devil, we become the devil. We become that which disturbs God’s harmony.
+  >
+  > But what happens to the actual human being when all evil comes from him and all good from God? On the one hand, we make a hash of Man, and, on the other, we elevate him above the gods–for ultimately something that so mars the beautiful works of the Godhead must be no small force! Man thereby becomes a second God, a dark, counter-God, who spoils the fun of the “good” God. We credit Man with a significance that exceeds even the wildest fantasy. Here we get into considerable difficulty...
+  >
+  > Four is the logical prerequisite for every determination of totality. If one wants to make such a determination, it must have a fourfold aspect. If, for example, one wants to designate the totality of the horizon, one names the four cardinal points. Three is not a natural pattern of order, but an artificial one... Ideal completion, naturally, is round, is the circle. But its minimal, natural division is the four.
+  >
+  > Another Christian statement about evil implies that it has personality as the Devil. The Devil is not included in the Trinity but stands outside and, because of the concept of the privatio boni, leads a mere shadow existence. In light of the powerful impact of evil, though, this sounds suspiciously like a euphemism. As an autonomous and eternal figure, the Devil corresponds more nearly to his role as Christ’s adversary and to the psychological reality of evil.
+  >
+  > The Church fathers most vehemently opposed the notion of a quaternity of divine principles while making the attempt to assign three persons to the nature of God. This resistance against the quaternity is extraordinary given that the central Christian symbol, the cross, is unmistakably a quaternity. It represents, however, God’s suffering in the direct collision with the world...
+  >
+  > Without a doubt, the Devil is an awkward figure: somehow or other he stands awry in the Christian world order. For this reason, one readily plays down his importance with euphemistic detraction or even by shutting one’s eyes to his existence...
+  >
+  > Whatever the Devil’s metaphysical position might be, in psychological reality evil presents an effective, yes, even a threatening, limitation to the good. It is not going too far for one to assume that not only day and night hold the world in equilibrium, but also good and evil...
+  >
+  > The quaternity schema recognizes this presence as an undeniable factor by laying the bonds of this world’s reality on Trinitarian thinking. Platonic, intellectual freedom makes possible no determination of totality, but tears the light part of the divine portrait loose from the dark half. This freedom was, in large part, a cultural phenomenon and the nobler occupation of those fortunate Athenians to whose lot it fell not to be Helots.
+  > 
+  > Only he can elevate himself above nature who has another to carry earth’s heaviness for him. How would Plato have philosophized had he been his own house slave?...
+  >
+  > The dark heaviness of earth belongs to the image of totality. In this world, nothing good lacks an evil, no day a night, no summer a winter. But civilized Man may lack a winter, for he can protect himself against the cold. He may lack the dirt, for he can bathe himself... He can believe himself to be good and pure because necessity does not instruct him any differently... If, however, God wants to be born as a human being and to unite humanity in the community of the Holy Ghost, he will suffer the terrible torment of having to bear the world in its reality. It is a cross; yes, he himself is the cross. The world is God’s suffering and each individual human being who also wishes to even approximate his own totality knows very well that that means carrying a cross."
+  >
+  > — C. G. Jung <https://carljungdepthpsychologysite.blog/2020/02/27/trinity-4/>
+
+---
+
+  >     The dove descending breaks the air
+  >     With flame of incandescent terror
+  >     Of which the tongues declare
+  >     The one discharge from sin and error.
+  >     The only hope, or else despair
+  >         Lies in the choice of pyre or pyre—
+  >         To be redeemed from fire by fire.
+  > 
+  >     Who then devised the torment? Love.
+  >     Love is the unfamiliar Name
+  >     Behind the hands that wove
+  >     The intolerable shirt of flame
+  >     Which human power cannot remove.
+  >         We only live, only suspire
+  >         Consumed by either fire or fire.
+  > 
+  > — T. S. Eliot, "Four Quartets" part 4, section 4
+
+  > Yes, for Love to be full satisfied, it is necessary for it to be abased, to be abased to nothingness, and for it to transform that nothingness into *fire*.
+  >
+  > — St. Therese of Lisieux, *The Story of a Soul* p. 218
+  

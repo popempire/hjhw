@@ -183,7 +183,7 @@ disappointed in the humans, who ought to have known better.
   > 
   > Only he can elevate himself above nature who has another to carry earth’s heaviness for him. How would Plato have philosophized had he been his own house slave?...
   >
-  > The dark heaviness of earth belongs to the image of totality. In this world, nothing good lacks an evil, no day a night, no summer a winter. But civilized Man may lack a winter, for he can protect himself against the cold. He may lack the dirt, for he can bathe himself... He can believe himself to be good and pure because necessity does not instruct him any differently... If, however, God wants to be born as a human being and to unite humanity in the community of the Holy Ghost, he will suffer the terrible torment of having to bear the world in its reality. It is a cross; yes, he himself is the cross. The world is God’s suffering and each individual human being who also wishes to even approximate his own totality knows very well that that means carrying a cross."
+  > The dark heaviness of earth belongs to the image of totality. In this world, nothing good lacks an evil, no day a night, no summer a winter. But civilized Man may lack a winter, for he can protect himself against the cold. He may lack the dirt, for he can bathe himself... He can believe himself to be good and pure because necessity does not instruct him any differently... If, however, God wants to be born as a human being and to unite humanity in the community of the Holy Ghost, he will suffer the terrible torment of having to bear the world in its reality. It is a cross; yes, he himself is the cross. The world is God’s suffering and each individual human being who also wishes to even approximate his own totality knows very well that that means carrying a cross. But the eternal promise of bearing a cross is the Paraclete.
   >
   > — C. G. Jung <https://carljungdepthpsychologysite.blog/2020/02/27/trinity-4/>
 
@@ -205,8 +205,8 @@ disappointed in the humans, who ought to have known better.
   >         We only live, only suspire
   >         Consumed by either fire or fire.
   > 
-  > — T. S. Eliot, "Four Quartets" part 4, section 4
+  > — T. S. Eliot, "Four Quartets" part 4, section 4 <http://www.davidgorman.com/4quartets/4-gidding.htm>
 
-  > Yes, for Love to be full satisfied, it is necessary for it to be abased, to be abased to nothingness, and for it to transform that nothingness into *fire*.
+  > Yes, for Love to be fully satisfied, it is necessary for it to be abased, to be abased to nothingness, and for it to transform that nothingness into *fire*.
   >
   > — St. Therese of Lisieux, *The Story of a Soul* p. 218

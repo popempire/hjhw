@@ -1,0 +1,15 @@
+---
+layout: page
+title: Henry James House - Last Lights Off the Black West
+---
+**HENRY JAMES HOUSE, *LAST LIGHTS OFF THE BLACK WEST***  
+**Genres:** post-Americana, rock ‘n roll, folk, psychedelic  
+**RIYL:** Tom Waits, June Panic, Marc Bolan, PJ Harvey, Gillian Welch, Nikki Sudden, The Jesus and Mary Chain, J.J. Cale
+
+“I think of many of the songs on the album as old mountain folk songs, but remembered in a modern city-dweller's dream” Cincinnati songwriter **Henry James House** says of his forthcoming record, ***Last Lights Off the Black West***. This is more than metaphor, as the songs on this record are a combination of new, very old, and reimagined. This, House believes, is what distinguishes the work as **post-Americana**. While it is firmly rooted in history, it is not a rehashing, but a *next step*. House’s statement is sure-footed and poetic, like the record itself, throughout which he seems at times to be channeling the ghost of **Marc Bolan** or **J.J. Cale**, sending folk and blues through a tunnel of fuzz and psychedelia. 
+
+The album’s title comes from the sonnet “God’s Grandeur” by 19th century Jesuit priest **Gerard Manley Hopkins**. The poem speaks to the darkness of humanity, a world brought to the brink by humanmade folly, but also asserts that “for all this, nature is never spent.” This not only represents the thematic threads running throughout the record, themes of longing, beauty, and reconciliation with nature, but it also parallels House’s broader artistic tendencies and philosophies. The traditions in which House trades –– blues, folk, Americana –– are so well-explored that they are like a fundamental part of music itself. But rather than deterring House, that fact is simply treated like nature, and like nature, these traditions, also, are never spent.
+
+Three of the songs on the album are covers, presented with House’s very unique arrangements: "Mother Earth" by **Memphis Slim**, "The Living End" by **The Jesus and Mary Chain**, and "Rock Me" by **Rev. Thomas Dorsey**, first recorded by **Sister Rosetta Tharpe**. The remaining seven songs are a fascinating and nuanced combination of original and traditional. There are on the one hand traditional texts with new tunes and on the other hand, very old tunes with new texts, all interlaced. It’s not about nostalgia for House. Learning these songs, studying their histories and bringing them forward, recontextualizing them, serves as a living and progressive process for him. Making this work in this way, House says, is “the best salve for loneliness, and the best daily psychological nourishment.”
+
+One doesn’t need to know all of this to enjoy *Last Lights Off the Black West*, a collection of infectious songs, at times swaggering and rollicking, at others, swaying, romantic. “I think I'd somehow like to plant in people's minds the thought that I have often had, thinking about the incredible tradition of human song spanning millennia, that *tradition* is not just something that builds us up to the present day, but something that pulls us irresistibly into the future.”  

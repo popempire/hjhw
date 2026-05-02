@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: books st-therese
 ---
 
 I recently finished *Story of a Soul* by St. Therese of Lisieux.

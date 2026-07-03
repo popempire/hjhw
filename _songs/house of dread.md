@@ -36,3 +36,12 @@ by ed cunningham
     (refrain)
     on a street called doom
     in the house of dread
+
+
+
+
+<https://music.youtube.com/watch?v=rT4edJef-eM&si=V-hHXeO0xD_mlXLz>
+
+<https://music.youtube.com/watch?v=N-_noTdUrKA&si=-08D_Yq8RJ8Ivd1o>
+
+<https://youtu.be/g3p-iOTDYYA?is=doNkAfPW2S1AzI3V>

@@ -6,7 +6,7 @@ by ed cunningham
 
     back in eastern tennessee
     there's a weeping willow tree
-    in an alley down below the summer sun
+    in a valley down below the summer sun
     where my friends and i would play
     spending many a pretty day
     and many nights below the stars we'd adjourn
@@ -19,7 +19,7 @@ by ed cunningham
 
     buck creek's long but not too wide
     where the crawdads swim and hide
-    and the moss covered rocks creep(?) crackling o'er my feet
+    in the moss covered rocks click clackling o'er my feet
     the smell of bluegill in the air
     along the trickling thoroughfare
     and the scent of honeysuckle vine is sweet
@@ -28,7 +28,7 @@ by ed cunningham
 
     i left my old clinch mountain home
     though my daddy said don't go
-    how i wish that i'd listened to him then
+    how i wish that i had listened to him then
     i lost my children and my wife
     beer and whiskey wrecked my life
     and i'm never gonna see my home again

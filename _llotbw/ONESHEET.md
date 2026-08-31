@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Henry James House - Last Lights Off the Black West
 ---
 **HENRY JAMES HOUSE, *LAST LIGHTS OFF THE BLACK WEST***  

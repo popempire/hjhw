@@ -34,8 +34,8 @@ character Alice was based on a real girl named Alice who was the daughter of a
 family with whom Carroll was friendly. The books were apparently written originally 
 for her amusement before finding a wider audience.
 
-What I did not know, and wish I had realized sooner, was that Lewis Carroll was
-a pedophile.
+What I did not know, and wish I had realized sooner, was that some have alleged
+that Lewis Carroll was a pedophile.
 
 ### Was he really a pedophile?
 
@@ -49,7 +49,7 @@ a pedophile.
 
 <https://scrapsfromtheloft.com/books/vladimir-nabokov-interviewed-by-penelope-gilliatt-1966/>
 
-### How did I wind up using the poetry of a pedophile in my song?
+### How did I wind up using this poem in my song?
 
 I have long loved the song "My Lagan Love". For years I had been conceiving of a
 way to marry this traditional Irish air with a dark trip-hop style production.
@@ -60,7 +60,7 @@ along with Isaac Karns (mixing), Keegan Hanrahan (saxophone), and Kelsey Cork
 of the arrangement and production we executed on this track.
 
 That said, it was only after the song was done, recorded and released, that I 
-learned about Carroll's true nature. My immediate reaction was to recoil in shame,
+learned about the allegations against Carroll's character. My immediate reaction was to recoil in shame,
 and I felt a regret for including his words in my recording. The four lines in
 my recording that come from him are not material to the song and could have been
 replaced by any number of lines that fit the rhythm (a very common meter for 
@@ -72,11 +72,9 @@ drag everything out into the light. And perhaps, by doing this unpleasant work,
 I can actually do something psychologically useful that otherwise never would
 have been done.
 
-The mistake (i.e. the decision to include Carroll's lines in my lyrics)
+The the decision to include Carroll's lines in my lyrics
 was made innocently enough, though I could reproach myself for not more thoroughly
-vetting my sources. I could also reproach the culture I've been born into, for
-presenting Carroll's work as celebrated classics of children's literature —
-this is a discussion I will take up later. But for now, I will simply relate the
+vetting my sources. For now, I will simply relate the
 sequence of events in my songwriting process as they occurred, without any
 sensationalism.
 

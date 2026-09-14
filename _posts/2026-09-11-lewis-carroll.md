@@ -4,10 +4,10 @@ layout: post
 
 ## Lagan Dream
 
- >    How cheerfully he seems to grin
- >    How neatly spreads his claws
- >    And welcomes little fishes in
- >    With gently smiling jaws
+>     How cheerfully he seems to grin
+>     How neatly spreads his claws
+>     And welcomes little fishes in
+>     With gently smiling jaws
 
 This is where the elephant enters the room.
 These lines are from the well-known children's book *Alice's Adventures in Wonderland*
@@ -83,14 +83,14 @@ traditional lyrics, while brilliant in certain places, stood in need of an updat
 in others. Here's what I was working with, the original English translation of an
 air presumably composed in Irish Gaelic (skipping ahead to the relevant verse):
 
- >    And often when the beetle's horn
- >    Hath lulled the eve to sleep
- >    I steal unto her sheiling lorn
- >    And through the door in-peep
- >    There on the cricket's singing-stone
- >    She spares the bogwood fire
- >    And hums in sad, sweet undertone
- >    The song of heart's desire
+ >     And often when the beetle's horn
+ >     Hath lulled the eve to sleep
+ >     I steal unto her sheiling lorn
+ >     And through the door in-peep
+ >     There on the cricket's singing-stone
+ >     She spares the bogwood fire
+ >     And hums in sad, sweet undertone
+ >     The song of heart's desire
 
 I love the imagery, rhythm, and soundscape throughout these lines. And for the last
 four lines I had no notes — they're perfect, and I left them as-is in my version.
@@ -112,22 +112,22 @@ So, I took a page from my childhood habit and started leafing through my copy of
 This poem is a play on a classic English morality poem from 1715 by Isaac Watts,
 "How Doth the Little Busy Bee," originally titled, "Against Idleness and Mischief."
 
- >    How doth the little busy bee
-      Improve each shining hour,
-      And gather honey all the day
-      From every opening flower!
-      
-      How skilfully she builds her cell!
-      How neat she spreads the wax!
-      And labors hard to store it well
-      With the sweet food she makes.
-      
-      In works of labor or of skill,
-      I would be busy too;
-      For Satan finds some mischief still
-      For idle hands to do.
-      
-      In books, or work, or healthful play,
-      Let my first years be passed,
-      That I may give for every day
-      Some good account at last.
+ >     How doth the little busy bee
+ >     Improve each shining hour,
+ >     And gather honey all the day
+ >     From every opening flower!
+ >     
+ >     How skilfully she builds her cell!
+ >     How neat she spreads the wax!
+ >     And labors hard to store it well
+ >     With the sweet food she makes.
+ >     
+ >     In works of labor or of skill,
+ >     I would be busy too;
+ >     For Satan finds some mischief still
+ >     For idle hands to do.
+ >     
+ >     In books, or work, or healthful play,
+ >     Let my first years be passed,
+ >     That I may give for every day
+ >     Some good account at last.

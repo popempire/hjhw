@@ -47,6 +47,8 @@ a pedophile.
 
 <https://the-artifice.com/lewis-carroll/>
 
+<https://scrapsfromtheloft.com/books/vladimir-nabokov-interviewed-by-penelope-gilliatt-1966/>
+
 ### How did I wind up using the poetry of a pedophile in my song?
 
 I have long loved the song "My Lagan Love". For years I had been conceiving of a

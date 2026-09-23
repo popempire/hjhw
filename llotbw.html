@@ -15,7 +15,7 @@ permalink: llotbw/
 <ul>
   {% for page in site.llotbw %}
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      <a href="{% link page.path %}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -25,7 +25,7 @@ permalink: llotbw/
 {% assign posts_with_tag = site.posts | where_exp: "item", "item.tags contains 'llotbw'" %}
 <ul>
 {% for post in posts_with_tag %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a href="{% link post.path %}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 

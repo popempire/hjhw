@@ -3,14 +3,6 @@ layout: page
 title: God's Grandeur
 ---
 
-- *Sitting on Top of the World* - The Mississippi Sheiks (1930) (cf. Doc Watson, et al.)
-- *Some Summer Day* - Charley Patton (later in 1930)
-- *Things 'Bout Comin' My Way* - Tampa Red (1931)
-
-A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910s
-
----
-
     The world is charged with the grandeur of God.
         It will flame out, like shining from shook foil;
         It gathers to a greatness, like the ooze of oil
@@ -26,6 +18,67 @@ A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910
         Oh, morning, at the brown brink eastward, springs —
     Because the Holy Ghost over the bent
         World broods with warm breast and with ah! bright wings.
+
+---
+
+"God's Grandeur" is a sonnet by the Jesuit priest Gerard Manley Hopkins, written in 1877, not published until the 1910s. Hopkins always wrote with a distinct musicality in his verse. What gave me the audacity to include this poem in a collection of "folk songs" was the discovery that it can be sung to something akin to the tune of "Sitting On Top Of the World" by The Mississippi Sheiks. Any lyrical poem which can be sung or incanted in a blues vocal style may be considered a blues.
+
+I think what has always appealed to me about this poem, even when my understanding of the world has seemed deeply at odds with that of the Catholic Church, is that it does not try to present the divine order as some abstract vision of pure good. Instead, it tries earnestly to express an incomprehensible totality, with all the messiness that that entails. In this way, the meaning of the poem seems aligned with the sentiments expressed in Jung's lecture on the concept of the Trinity that we considered in relation to "Preachin' The Devil." Jung could just as well have been speaking of this poem when he says,
+
+ >     "The dark heaviness of earth belongs to the image of totality. In this world, nothing good lacks an evil, no day a night, no summer a winter. But civilized Man may lack a winter, for he can protect himself against the cold. He may lack the dirt, for he can bathe himself... He can believe himself to be good and pure because necessity does not instruct him any differently. [10]
+
+The poem's vivid and unusual images of "shining from shook foil" and "the ooze of oil crushed" suggest a sense of awe towards the natural world, a recognition of beauty in its order. There's trouble, however, in trying to square this sense of wonder with an earnest recognition of how messed up the world (at least the *human* world) is. Interestingly, the images used to describe the sinful human world closely mirror the hallmarks of industrial and capitalistic "progress." This could well be in part a reaction to the Industrial Revolution, which had so changed the English countryside and beyond in the decades prior to the writing of this poem. But indeed, the description of our anthropocene era as "seared with trade" and tainted by human odors seems even more apt today than in 1877. Ironically, the "men" are oblivious to their disconnection from nature, because their shoes prevent them from feeling the earth, just as Jung suggests "civilized Man" may be oblivious to his own spiritual destitution because of the physical comfort that his material wealth provides.
+
+The poem's first stanza presents its thematic problem, a tragic separation between humanity and the divine. True to traditional Petrarchan sonnet form, the ninth line delivers the *volta*, the turn, the hinge which swings from the problem described in the first stanza to the solution in the second. Hopkins places *nature* at the fulcrum of this hinge.
+
+Insofar as the divine is understood as the active and organizing principle in nature, which emanates both the structure of the cosmos as well as the impetus for its being, the mode in which all animals participate in the divine, humans included, is called *instinct*. Instinct is the animal nature becoming one with God.
+
+Brooding as an instinct among birds gives rise to some fascinating behaviors, which evidently have been perceived for thousands of years to offer an apt metaphor for divine love.[^1] In Deuteronomy, God is described as an eagle hovering over its young. "The shadow of your wings" is a symbol of God's protection that appears in numerous Psalms. And in the gospels of Matthew and Luke, Jesus describes himself as a mother hen who gathers her chicks under her wing. In this poem, it is the Holy Ghost who is characterized in these avian-maternal terms, and her charge is the entire world, encompassing all of humanity, including its messy physical dependencies and even its evil.
+
+In a Christian context, the God of the first stanza is recognizable as the Father, the first person of the Trinity, the masculine aspect of God, whose efficacy is symbolized by his rod. This aspect is contrasted in the second stanza with the Holy Ghost, the feminine aspect, who broods over her offspring. In parallel, imagery of the human-made world in the first stanza is contrasted with imagery of the natural world in the second. In Jung's quaternity schema, the Father and the Holy Ghost represent opposite points of the cross: they constitute a duality between them, while bearing relation to the complementary duality of the Christ and the Devil as part of the totality. They reflect, respectively, the Oneness and the Multiplicity of all things.
+
+The two most common symbols of the Holy Ghost in Christianity are a bird (often a dove) and fire. The motif of divine fire bookends Hopkins' sonnet. It is a "shining" that will "flame out," and it is the "bright wings" of the Holy Ghost brooding over the world at the break of dawn, when the sky begins to fill with a fiery glow. Fire is life-giving, purifying, and beautiful. But fire also means destruction, suffering, and, in a Christian context, it is representative of both condemnation and martyrdom (paying the ultimate price in obedience to God). The conjunction of these images, the Holy Ghost as a fiery bird, can be profoundly provocative, as in T. S. Eliot's *Four Quartets*, written during the Second World War, where he intertwines the images of the Holy Ghost and the Luftwaffe raids on London.
+
+ >     The dove descending breaks the air
+ >     With flame of incandescent terror
+ >     Of which the tongues declare
+ >     The one discharge from sin and error.
+ >     The only hope, or else despair
+ >         Lies in the choice of pyre or pyre—
+ >         To be redeemed from fire by fire.
+ >
+ >     Who then devised the torment? Love.
+ >     Love is the unfamiliar Name
+ >     Behind the hands that wove
+ >     The intolerable shirt of flame
+ >     Which human power cannot remove.
+ >         We only live, only suspire
+ >         Consumed by either fire or fire.
+
+The transmutation of love into fire and vice versa is the mystical power of the Holy Ghost. St. Therese of Lisieux, the youngest of all the officially proclaimed Doctors of the Catholic Church, sums it up this way: "Yes, for Love to be fully satisfied, it is necessary for it to be abased, to be abased to nothingness, and for it to transform that nothingness into *fire*." [12]
+
+What comes after an all-consuming fire? The most primordial characteristic of supreme divinity is regeneration: eternal self-renewal, self-creation. In Hopkins' words, "nature is never spent." After a forest has been levelled in a great fire, its life proceeds anew in shoots that grow from seeds that have been preserved under the soil: "the dearest freshness deep down things." After every night, the sun, the brightest and best symbol of divine regeneration and divine fire, will return. Hopkins thus gives expression within a Christian context to a much more ancient revelation.
+
+[^1]: C. G. Jung, "The Psychology of the Concept of the Trinity". Jung continues:
+
+>     If, however, God wants to be born as a human being and to unite humanity in the community of the Holy Ghost, he will suffer the terrible torment of having to bear the world in its reality. It is a cross; yes, he himself is the cross. The world is God's suffering and each individual human being who also wishes to even approximate his own totality knows very well that that means carrying a cross. But the eternal promise of bearing a cross is the Paraclete.
+
+The *Paraclete* is another name for the Holy Ghost in its aspect as humanity's advocate, an indwelling presence that comforts and helps us. For the Christian mystic, this aspect is indispensable for reconciling one's ethical mission and concept of divine justice with a world that is full of suffering and often seems to be fundamentally unjust.
+
+[^11]: Brooding among humans tends to refer to a different kind of behavior, a dwelling on dark thoughts. While in general the connotations are not all positive for this kind of sullenness, I do believe that singing the blues represents a kind of human brooding which can be undertaken in imitation of the divine.
+
+[^12]: St. Therese of Lisieux, *The Story of a Soul*, ch. 9 "My Vocation, Love"
+
+
+---
+
+## Notes
+
+- *Sitting on Top of the World* - The Mississippi Sheiks (1930) (cf. Doc Watson, et al.)
+- *Some Summer Day* - Charley Patton (later in 1930)
+- *Things 'Bout Comin' My Way* - Tampa Red (1931)
+
+A sonnet by Gerard Manley Hopkins, written in 1877, not published until the 1910s
 
 ---
 
@@ -47,6 +100,8 @@ discovery that it can be sung to something quite like the tune of
 
 
 ---
+
+### original sin
 
 The descriptions of God's grandeur as "shining from shook foil" and "the ooze of
 oil crushed" are vivid and unusual. They suggest a sense of awe towards the 
@@ -105,6 +160,8 @@ divine in the second (the Holy Ghost who broods over her offspring).
 In this comparison, favor is given to the feminine aspect.
 
 ---
+
+### instinct
 
 Insofar as the divine is understood as the active and organizing principle in Nature,
 which emanates both the structure of the cosmos as well as the very impetus for
@@ -170,14 +227,4 @@ The habit of reinforcing this instinct is called *wisdom*, and that is why
 the fear of god is called the beginning or root of wisdom.
 
 ---
-
-### God's Grandeur
-is a sonnet by Gerard Manley Hopkins set to music derived from the blues standard
-*Sittin' On Top of the World*
-  - nature is suffused with the divine
-  - the state of sin is estrangement from nature
-  - masculine/feminine aspects of the divine
-  - hopkins on prosody
-    - sprung rhythm
-    - setting the text to music
 

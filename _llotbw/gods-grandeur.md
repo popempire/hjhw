@@ -163,7 +163,7 @@ In this comparison, favor is given to the feminine aspect.
 
 ### instinct
 
-[25-11-12 instinct]({% post_url 2025-11-12-instinct.md %})
+[25-11-12 instinct]({% post_url 2025-11-12-instinct %})
 
 Insofar as the divine is understood as the active and organizing principle in Nature,
 which emanates both the structure of the cosmos as well as the very impetus for

@@ -8,12 +8,12 @@ title: archive of posts
   
 <h2>posts</h2>
 
-<a href="{{ site.url }}{{ site.baseurl }}/tags/">view posts by tag</a>
+<a href="{% link tags.html %}">view posts by tag</a>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

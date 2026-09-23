@@ -11,7 +11,7 @@ permalink: notebooks/
 <ul>
   {% for notebook in site.notebooks %}
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ notebook.url }}">{{ notebook.title }}</a>
+      <a href="{{ notebook.url | relative_url }}">{{ notebook.title }}</a>
     </li>
   {% endfor %}
 </ul>

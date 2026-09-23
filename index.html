@@ -10,7 +10,7 @@ title: henry james house wilson
 <ul>
   {% for each_page in site.pages %}
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ each_page.url }}">{{ each_page.title }}</a>
+      <a href="{{ each_page.url | relative_url }}>{{ each_page.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -29,7 +29,7 @@ title: henry james house wilson
 <ul>
   {% for post in site.posts limit: 10 %}
     <li>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%-m/%-d/%y" }} - {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -40,13 +40,12 @@ title: henry james house wilson
 
 </main>
 
-<footer>
-    <p>site.url: {{ site.url }}<br>
-    site.baseurl: {{ site.baseurl }}<br>
-    site.title: {{ site.title }}<br>
-    site.description: {{ site.description }}<br>
-    site.author: {{ site.author }}<br>
-    site.time: {{ site.time }}<br>
-    jekyll.version: {{ jekyll.version }}<br>
-  </p>
-</footer>
+<p>
+  site.url: {{ site.url }}<br>
+  site.baseurl: {{ site.baseurl }}<br>
+  site.title: {{ site.title }}<br>
+  site.description: {{ site.description }}<br>
+  site.author: {{ site.author }}<br>
+  site.time: {{ site.time }}<br>
+  jekyll.version: {{ jekyll.version }}<br>
+</p>

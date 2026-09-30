@@ -30,7 +30,7 @@ Make Yr Motor Hum
     Your true self has no arms, nor legs, nor head of hair
     The real you can't be found but just anywhere
     You're the heart, stomach, and spleen
-    Of a marvellous flying machine
+    Of a marvelous flying machine
     And, yes, it's sweet love that will make your motor hum
     Hey alright, hey alright, hey alright
 

@@ -1,3 +1,5 @@
+---
+---
 this whole *analog v. digital* thing—
 
 there's a problem in contemporary society's dialog around
@@ -58,3 +60,35 @@ out of a musical story
 that derives its meaning and context from a far-flung
 musical way of life?
 this is what it is like to identify a particular human individual.
+
+---
+
+### 2026.10.05
+
+<https://www.youtube.com/shorts/rs7aKC_Z1GE>
+
+<https://www.bbc.com/videos/cz4x52pnrzxo>
+
+*Analog* means there is an analogy between a certain electrical quantity
+(often the voltage between two given points in a circuit)
+and a physical quantity in another system.
+The analogy could be between sound pressure level 
+(i.e. deviation from mean ambient air pressure)
+and the voltage between two wires in a microphone cable.
+In this case, the voltage will change over time in nearly perfect synchronicity
+with the change in sound pressure at the diaphragm of the microphone.
+
+Electrical signals can also be analogous with many other physical quantities,
+such as temperature,
+light intensity,
+etc.
+
+"Analog film" is a misnomer, though perhaps our language is evolving such that
+this term which is gaining in currency will soon have a literal denotation.
+"Analog video," on the other hand, is a sensible term.
+
+<https://clip.cafe/strictly-ballroom-1992/i-find-difficult-get-the-films-now/?srsltid=AU7gw4UdM5Awg2jLFpgPxcCP4Mm7DnEkMoRlmPuePrWbGlW3VZrij7yp>
+
+Analog and digital represent two complementary domains within electrical engineeering,
+both of which continue to be highly relevant to modern research and technology.
+They are somewhat analogous to the domains of geometry and arithmetic in mathematics.

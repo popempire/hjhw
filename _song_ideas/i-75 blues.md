@@ -13,10 +13,10 @@ everything i ever known sure never seem to last
 when i left the backroads the moon was shining bright  
 when i drove half my home was almost broad daylight
 
-[https://www.youtube.com/watch?v=An9rC8olaVY]
+<https://www.youtube.com/watch?v=An9rC8olaVY>
 
 The album opens with a quotation from Willie Brown's 1930 recording "Future Blues".
 
-[https://www.youtube.com/watch?v=LY7nCc9BE4c]
+<https://www.youtube.com/watch?v=LY7nCc9BE4c>
 
 The second refrain also quotes Lantana's 2013 recording "All Hustle, No Luck".

@@ -24,6 +24,7 @@ body {
 @media print {
   body {
     margin-left: 0.25in;
+    font-size: 14px;
   }
   footer {
     display: none;

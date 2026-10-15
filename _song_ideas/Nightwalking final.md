@@ -1,19 +1,19 @@
 ---
 ---
 
-I go out walking after midnight 
-Coming down the sky to set you free
-Mama don't you hear me crying?
+I go out walking after midnight  
+Coming down the sky to set you free  
+Mama don't you hear me crying?  
 You only see the ones in the light 
 
-In the high sodium vapor yellow 
-Lonesome air the silent twilight's fall
-Silhouettes a figure 
-You only see the ones in the light 
+In the high sodium vapor yellow   
+Lonesome air the silent twilight's fall  
+Silhouettes a figure  
+You only see the ones in the light  
 Others drift away in the shadow 
 
-She goes out somewhere in the darkness
-In her eyes the phosphorescent gleam—
-The one I love is ghostly 
-You only see the ones in the light 
+She goes out somewhere in the darkness  
+In her eyes the phosphorescent gleam—  
+The one I love is ghostly  
+You only see the ones in the light  
 Others drift away in the shadow 

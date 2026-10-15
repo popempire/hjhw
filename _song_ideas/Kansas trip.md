@@ -1,103 +1,103 @@
 ---
 ---
 
-Jack of diamonds 
-I've been your old friend 
-How could you deceive me this way?
+    Jack of diamonds 
+    I've been your old friend 
+    How could you deceive me this way?
 
-Rebecca 
-She said she saw you 
-...
+    Rebecca 
+    She said she saw you 
+    ...
 
-Hey Satan
-Turn on your high beams 
-...
+    Hey Satan
+    Turn on your high beams 
+    ...
 
-===
+---
 
-I'm gonna move 
-To Kansas City 
-Honey where I don't belong 
-Got friends 
-Out in the west of here babe 
-Better than I know myself 
+    I'm gonna move 
+    To Kansas City 
+    Honey where I don't belong 
+    Got friends 
+    Out in the west of here babe 
+    Better than I know myself 
 
-Been drinkin
-All day 
-All of the day before 
-
-
-Long dark road 
-This is the way
-Sharp white teeth 
-The better to prey
+    Been drinkin
+    All day 
+    All of the day before 
 
 
-Show me a root in the sky
-Teach me to die 
+    Long dark road 
+    This is the way
+    Sharp white teeth 
+    The better to prey
 
-Come here child
-This is the way 
-... voice in the wild 
-Calling her name 
 
-===
+    Show me a root in the sky
+    Teach me to die 
 
-I don't call it brave
-To feel no fear
-Nor feeling to put on false airs
+    Come here child
+    This is the way 
+    ... voice in the wild 
+    Calling her name 
 
-But standing 
-The heart's desolation 
-Unmoved by the myths of the age
+---
 
-And silence —
-She been a root to me babe 
+    I don't call it brave
+    To feel no fear
+    Nor feeling to put on false airs
 
-I'm gonna move
-To some other City 
-Honey where you don't belong 
+    But standing 
+    The heart's desolation 
+    Unmoved by the myths of the age
 
-Come rain 
-Come thunder & lightning 
-Don't bother me here in my cave 
+    And silence —
+    She been a root to me babe 
 
-And darkness —
-She been a world to me babe 
+    I'm gonna move
+    To some other City 
+    Honey where you don't belong 
 
-In wonder —
-Have I known love? Love?
+    Come rain 
+    Come thunder & lightning 
+    Don't bother me here in my cave 
 
-Down dark eyes
-This is the way 
-Deeper than ten thousand seas
-& wide as the sky
+    And darkness —
+    She been a world to me babe 
 
-Bright black eyes 
-Show me the way
-Alone in the woodland at night
-Calling her name
+    In wonder —
+    Have I known love? Love?
 
-I been wasted
-For over a week now
-I ain't gonna drink anymore 
+    Down dark eyes
+    This is the way 
+    Deeper than ten thousand seas
+    & wide as the sky
 
-I'll be clean
-Chaste & sober
-At rest in the tomb of my mind
+    Bright black eyes 
+    Show me the way
+    Alone in the woodland at night
+    Calling her name
 
-And silence — 
-She been a world to me babe
+    I been wasted
+    For over a week now
+    I ain't gonna drink anymore 
 
-In wonder —
-Have I known love? Love?
+    I'll be clean
+    Chaste & sober
+    At rest in the tomb of my mind
 
-Down dark eyes
-This is the way
-Deeper than ten thousand seas
-& wide as the sky
+    And silence — 
+    She been a world to me babe
 
-Bright black light
-Show me the way 
-Howl in the wasteland at night 
-Calling her name 
+    In wonder —
+    Have I known love? Love?
+
+    Down dark eyes
+    This is the way
+    Deeper than ten thousand seas
+    & wide as the sky
+
+    Bright black light
+    Show me the way 
+    Howl in the wasteland at night 
+    Calling her name 

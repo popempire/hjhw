@@ -1,25 +1,25 @@
 ---
 ---
 
-you think you know where you gon go
-you're goin nowhere and fast
-while time keeps driftin on
-you always drift to the past
+    you think you know where you gon go
+    you're goin nowhere and fast
+    while time keeps driftin on
+    you always drift to the past
 
-you can make it first second or third
-you just can't make it last
+    you can make it first second or third
+    you just can't make it last
 
-you can feed me all this shit
-you can't know why i'm smilin
-  ""     ""    i laugh
+    you can feed me all this shit
+    you can't know why i'm smilin
+      ""     ""    i laugh
 
-some people wanna be impressed
-but i'm never impressed
-some people wanna be surprised
-but i'm never surprised
+    some people wanna be impressed
+    but i'm never impressed
+    some people wanna be surprised
+    but i'm never surprised
 
-all my life i've been a traveller
-everywhere that i go
-and if i never make it home
-i'll drop dead in the road
+    all my life i've been a traveller
+    everywhere that i go
+    and if i never make it home
+    i'll drop dead in the road
 

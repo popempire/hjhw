@@ -3,6 +3,7 @@
 
 Record continuous take ~15min looping complete songform click track edit together to ~4min song
 
+```
 I wish that all my friends would wake up 
 Come out and play with me in moonlight 
 Drunken lonely wasted
@@ -31,6 +32,7 @@ The moon takes over at nighttime
 
 I go out walking after midnight 
 In the cool of morning air 
+```
 
 ---
 
@@ -39,13 +41,16 @@ Crime in Puritan Massachusetts
 
 ---
 
+```
 The world I live in is earthly 
 And sunlight plays over her face 
 
 The moon takes over at nighttime 
+```
 
 ---
 
+```
 I can't máke sense óf the world 
 What am I  supposed to do?
 What my landlord tell me?
@@ -55,9 +60,11 @@ Whatcha gonna do about dat?
 The world I live in is earthly 
 Remember you were born to die 
 The rent comes due at midnight tonight 
+```
 
 ---
 
+```
 The life I'm leading is costly
 Remember you were born to die 
 The last one turns the lights out
@@ -79,17 +86,21 @@ Remember you were born to die
 The world that I love is earthly 
 Sunlight over her face
 The moon takes over at nighttime 
+```
 
 ---
 
+```
 There are some who are darkness 
 There are others who are in the light 
 You just see the ones in the light, babe 
 Those in darkness drop from sight 
 (Mack the Knife, my translation)
+```
 
 ---
 
+```
 I go out walking after midnight 
 All in the cool of morning air
 Drunken, lonely, wasted
@@ -111,9 +122,11 @@ Vaunted robed dazzling
 You just see the ones in the light babe
 The others drop from sight 
 And drift away in the shadow 
+```
 
 ---
 
+```
 C
 {As | If} sheep go down to the slaughter
 Mama I was born to die
@@ -127,9 +140,11 @@ Past to future I am unbroken
 
 B
 Young boy's up to no good
+```
 
 ---
 
+```
 I go out walking after midnight 
 Out in the cool of morning air 
 She walks right beside me
@@ -150,9 +165,11 @@ Starlight round they shoulder
 The world I live in is earthly 
 Sunlight plays over her face 
 The moon takes over at nighttime 
+```
 
 ---
 
+```
 Come on baby don't be strange 
 
 Hello, hello, devil
@@ -166,9 +183,11 @@ Things I oughtn'ta said
 Who's gonna save me from myself 
 
 Come on babe why so green and lonely 
+```
 
 ---
 
+```
 The girl I'm lovin she is ghostly
 Eyes like diamonds in the sky
 ...
@@ -199,9 +218,11 @@ Yes the moon light up the night
 She lie right beside me
 See the ones in the light
 Others drop from sight
+```
 
 ---
 
+```
 I wish that all my friends would wake up 
 Come out and play with me in the dark 
 
@@ -241,9 +262,11 @@ Broken ragged hungry
 
 
 He's in a cage of steel and concrete 
+```
 
 ---
 
+```
 The only world I know is ghostly 
 She's at home in outer space 
 In the glow of starlight 
@@ -270,3 +293,4 @@ Coming down the sky to set you free
 I go out walking after midnight 
 Coming down the sky to set you free 
 Wake up people wake up 
+```

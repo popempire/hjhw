@@ -20,6 +20,52 @@ Blues On the Market (Whole Lotta Love In the World)
       Gotta have the rain to grow
     ...
 
+    From the crystal mountain waters
+      to the bottom of the deep blue sea
+    This old world has never seen
+      a stranger lookin' fish than me
+    ...
+
+    It's dark as a dungeon
+      and you might as well be blind
+    But you've got a secret fire
+      that burns inside of your mind
+    ...
+
+    The Blues jumped a rabbit
+      and he ran him for a solid mile
+    And then the rabbit turned over
+      and cried just like a natural child
+    ...
+
+    Well your enemy don't know you
+      and he can't find a way to get in
+    But the way your heart was meant
+      to bleed is from your bosom friend 
+    ...
+
+    I got something to tell you 
+      but the words are not my own
+    I was sent with a message  
+      from the I Am to the great unknown
+    ... 
+
+### Blues On the Market
+
+    I got something to tell you
+      gotta keep it to yourself
+    Don't you tell your mama
+      don't you tell nobody else
+    Don't you wanna come with me
+      weren't you waiting to believe
+    There's a whole lotta love in the world
+
+    I got blues on the market
+      Red hot and ready to go
+    Can't be always sunshine
+      Gotta have the rain to grow
+    ...
+
     There's blood in the gutters
       and the blues are everywhere
     I'm gonna write me a letter
@@ -85,28 +131,10 @@ Blues On the Market (Whole Lotta Love In the World)
     out in the world somewhere }
     ...
 
-    There's blood in the gutters
-    and the blues are everywhere
-    I'm gonna write me a letter
-    gonna mail it in the air
-    ...
-
     I got six cents on the dollar
     { and the people don't want me 'round | and I feel so low to the ground }
     If I fell in a puddle
     I think that I might drown
-    ...
-
-    The blues jumped a rabbit
-    and he ran him for a solid mile
-    And then the rabbit turned over
-    and cried just like a natural child
-    ...
-
-    I'm gonna write me a letter
-    gonna mail it in the sky
-    I know it's gonna catch you
-    when the wind go blowin' it by
     ...
 
     There's blood in the gutters

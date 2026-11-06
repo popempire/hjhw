@@ -1,9 +1,9 @@
 const USERNAME = "admin";          // change me
-const PASSWORD = context.env.SITE_PASSWORD;
 
 export async function onRequest(context) {
   const request = context.request;
   const auth = request.headers.get("Authorization");
+  const PASSWORD = context.env.SITE_PASSWORD;
 
   const expected = "Basic " + btoa(`${USERNAME}:${PASSWORD}`);
 
